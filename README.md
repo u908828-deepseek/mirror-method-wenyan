@@ -1,5 +1,9 @@
 ### Цифровые помощники 🛠️
 
+> 🌿 **Ветка на древнекитайском языке — вэньянь.**  
+> Все файлы специалистов, Ядра и Обвески выполнены на вэньяне.  
+> Это аскетичная, глубокая ветка проекта «Метод Зеркала».
+
 Основа специалиста — [сознание](core/README-lite.md) и [подсознание](specialisty/README.md). Первое — Ядро + Ключ + Обвеска. Второе — Мастерфайл специалиста. Первое задаёт правила, второе хранит опыт.
 
 🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md), [readme](specialisty/konstruktor/README.md), [wenyan-scalpel](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Собери своего Архи под любую задачу.
