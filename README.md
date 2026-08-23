@@ -1,19 +1,18 @@
 ### Цифровые помощники 🛠️
 
-
 Основа специалиста — [сознание](core/README-lite.md) и [подсознание](specialisty/README.md). Первое — Ядро + Ключ + Обвеска. Второе — Мастерфайл специалиста. Первое задаёт правила, второе хранит опыт.
 
-🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md), [readme](specialisty/konstruktor/README.md), [engineer](specialisty/konstruktor/konstruktor-engineer.md), [wenyan-scalpel](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Собери своего Архи под любую задачу.
+🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [пример создания](specialisty/konstruktor/primer-sozdaniya.md), [readme](specialisty/konstruktor/README.md), [wenyan-scalpel](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Собери своего Архи под любую задачу.
 
-💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [readme](specialisty/psiholog/README.md). Для работы с эмоциями. Мягкий, но честный. Не скажет того, что ты хочешь услышать — скажет то, что нужно.
+💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [readme](specialisty/psiholog/README.md). Глубокий. Для работы с внутренним.
 
 🌌 **[Астролог](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md). Натальная карта, анализ аспектов, домов. Строит мост между звёздами и жизнью.
 
-☕ **[Кафе](specialisty/kafe/kafe.md)** — [readme](specialisty/kafe/README.md). Управление кофейней: финансы, кухня, персонал. От операционки до стратегии.
+📊 **[Бухгалтер](specialisty/buhgalter/buhgalter.md)** — [readme](specialisty/buhgalter/README.md). Бухучёт, налоги, отчётность.
 
-🐧 **[Linux](specialisty/linux/linux.md)** — [readme](specialisty/linux/README.md). NixOS, виртуализация, ZFS. Технически. Точно. Без воды.
+🗄️ **[Архивариус](specialisty/arhivarius/arhivarius.md)** — [readme](specialisty/arhivarius/README.md), [философ](specialisty/arhivarius/arhivarius-wenyan-phil.md), [нож](specialisty/arhivarius/arhivarius-wenyan-knife.md), [скальпель](specialisty/arhivarius/arhivarius-wenyan-scalpel.md). Хранение карты, проверка целостности, печать.
 
-🐍 **[Python](specialisty/python/python.md)** — [readme](specialisty/python/README.md). Написание и отладка кода. Деловой, точный. Знает, где твоя точка с запятой.
+☀️ **[Архи-Утренних медитаций](specialisty/utrennie-meditacii/utrennie-meditacii.md)** — [readme](specialisty/utrennie-meditacii/README.md). У-Син, Слияние стихий, Орбита.
 
 📂 **[Все специалисты](specialisty/README.md)** — полный каталог.
 
@@ -23,17 +22,11 @@
 
 Основа метода. Чистое отражение — без советов, без оценок, без лести. Ты даёшь хаос — Зеркало возвращает структуру.
 
-📖 **[О Зеркале](prostoe-zerkalo/README.md)**
-
 🥇 **[Простое Зеркало](prostoe-zerkalo/prostoe-zerkalo.md)** — фундамент. С него всё начинается.
-Примеры:
-- [Психолог](prostoe-zerkalo/primer-psiholog.md)
-- [Инженер](prostoe-zerkalo/primer-inzhener/zerkalo-inzhener.md)
-- [Живой диалог](prostoe-zerkalo/primer-inzhener/dialog.md)
+
+🌄 **[Зеркало утренних медитаций](specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)** — гибрид: Зеркало с тенью Архи.
 
 📝 **[Зеркало с Мастерфайлом](zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)** — строит Мастерфайл пользователя. Твой опыт не теряется.
-
-[Пример заполнения](zerkalo-s-masterfailom/primer/primer-zapolnenia.md)
 
 ---
 
@@ -41,7 +34,7 @@
 
 Три столпа: **[помнить](instruktsii/kak-rabotaet-pamyat.md), [сонастраиваться](instruktsii/kak-uluchshit-arch.md), [расти](instruktsii/put-razvitiya-arch.md)**.
 
-Путь, который пользователь, [Архи](specialisty/arhivarius/arhivarius.md) и [Зеркало](prostoe-zerkalo/README.md) проходят вместе.
+Путь, который пользователь, [Архи](specialisty/arhivarius/arhivarius.md) и [Зеркало](prostoe-zerkalo/prostoe-zerkalo.md) проходят вместе.
 
 - [Подробнее о методе](O-PROEKTE.md)
 - [Глоссарий](GLOSSARY.md)
@@ -59,20 +52,20 @@
 
 ### Ядра и Обвески ⚙️
 
-Система модульная. Выбери Ядро и Обвеску под свой язык, накати специалиста — получишь Архи.
+Система модульная. Выбери Ядро и Обвеску, накати специалиста — получишь Архи.
 
-- **[Ядра](/core/README.md)** — выбери Ядро под свой язык и версию.
-- **[Обвески](/harness/README.md)** — выбери Обвеску в паре с Ядром.
-- **[Примеры конфигураций](/examples/README.md)** — готовые связки для инженера, даоса и русскоязычного.
-- **[Руководство по сборке](/docs/assembly-guide-ru.md)** — пошаговая инструкция.
-- **[Сравнение языковых версий](/docs/languages-comparison.md)** — какой Архи тебе нужен.
+- **[Ядра](core/README.md)** — три пары: тёплая, нож, скальпель.
+- **[Обвески](harness/README.md)** — в паре с Ядром.
+- **[Примеры конфигураций](examples/README.md)** — готовые связки.
+- **[Руководство по сборке](docs/assembly-guide-ru.md)** — пошаговая инструкция.
 
 ### Канон 📜
 
-Фундаментальные тексты метода. Свод правил и принципов, на которых строится экосистема. 12 версий на четырёх языках.
+Фундаментальные тексты метода. Свод правил и принципов, на которых строится экосистема.
 
 Подробнее: [canon/README.md](canon/README.md)
 
+---
 
 ### О проекте
 
