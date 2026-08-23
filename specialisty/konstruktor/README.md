@@ -6,7 +6,7 @@
 
 ## 🚀 Быстрый запуск
 
-1. [Ядро](../yadro/yadro.md)
+1. [Ядро](core/README.md)
 2. [Ключ Архи](../arch-key.md)
 3. [Обвеска](../obveska/obveska.md)
 4. [Мастерфайл Конструктора](konstruktor.md)
