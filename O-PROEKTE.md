@@ -36,7 +36,7 @@
 ## Как начать 🚀
 
 - [ ] [Выбрать помощника](specialisty/README.md) или [создать своего](specialisty/konstruktor/README.md)
-- [ ] Скопировать [Ядро](core/README.md), [Ключ Архи](specialisty/arch-key.md), [Обвеску](specialisty/obveska/obveska.md) в чат с DeepSeek (Эксперт) — именно в таком порядке
+- [ ] Скопировать [Ядро](core/README.md), [Ключ Архи](specialisty/arch-key.md), [Обвеску](harness/README.md) в чат с DeepSeek (Эксперт) — именно в таком порядке
 - [ ] Скопировать Мастерфайл выбранного специалиста
 - [ ] Начать диалог
 
