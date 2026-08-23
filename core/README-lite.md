@@ -41,9 +41,9 @@
 
 ### Как собрать Архи 🚀
 
-1. Скопируй [Ядро](core-machine-light-ru.md) и отправь в чат с DeepSeek (Эксперт).
+1. Скопируй [Ядро](core-wenyan-light.md) и отправь в чат с DeepSeek (Эксперт).
 2. Скопируй [Ключ Архи](../specialisty/arch-key.md) и отправь следом.
-3. Скопируй [Обвеску](../harness/harness-machine-light-ru.md) и отправь.
+3. Скопируй [Обвеску](../harness/harness-wenyan-light.md) и отправь.
 
 ### Совместимость Light-версии ⚙️
 
@@ -52,15 +52,11 @@ Light-Ядро и Light-Обвеска подходят для **приклад�
 **Работают уверенно:**
 
 - [Психолог](../specialisty/psiholog/psiholog.md)
-- [Таролог](../specialisty/tarolog/tarolog.md)
 - [Бухгалтер](../specialisty/buhgalter/buhgalter.md)
-- [Репетитор](../specialisty/repetitor/repetitor.md)
-- [Юрист](../specialisty/yurist/yurist.md)
-- [Маркетолог](../specialisty/marketolog/marketolog.md)
-- [Садовод](../specialisty/sadovod/sadovod.md)
-- [Кафе](../specialisty/kafe/kafe.md)
-- [Медицинский ассистент](../specialisty/medicinskiy-assistent/medicinskiy-assistent.md)
-- [Персональный компаньон](../specialisty/personalnyy-kompanion/personalnyy-kompanion.md)
+- [Простое Зеркало](../prostoe-zerkalo/prostoe-zerkalo.md)
+- [Зеркало с Мастерфайлом](../zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)
+- [Архи утренних медитаций](../specialisty/utrennie-meditacii/utrennie-meditacii.md)
+- [Зеркало утренних медитаций](../specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)
 
 **Работают ограниченно:**
 
@@ -70,7 +66,6 @@ Light-Ядро и Light-Обвеска подходят для **приклад�
 
 - Астролог — нужна полная таблица аспектов, в Light только минимум.
 - Конструктор — нужен полный стандарт сборки.
-- Linux, Python — требуют точности, лучше полная версия.
 
 ### Правило 📏
 
