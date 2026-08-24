@@ -1,11 +1,11 @@
-### Обвески
+### Harnesses 📦
 
-Здесь находятся Обвески операционной системы Архи. Выбирай в паре с Ядром того же языка и версии.
+Here are the Harnesses of the Arch operating system. Choose paired with a Core of the same language and version.
 
-### Вэньянь (древнекитайский)
+### Wenyan (Classical Chinese)
 
-- [harness-wenyan.md](harness-wenyan.md) — базовый (тёплый, философ)
-- [harness-machine-wenyan.md](harness-machine-wenyan.md) — с машинного v1.0 (нож)
-- [harness-engineer-wenyan.md](harness-engineer-wenyan.md) — с инженерного v2.0 (скальпель)
+- [harness-wenyan.md](harness-wenyan.md) — basic (warm, philosopher)
+- [harness-machine-wenyan.md](harness-machine-wenyan.md) — from Machine v1.0 (knife)
+- [harness-engineer-wenyan.md](harness-engineer-wenyan.md) — from Engineer v2.0 (scalpel)
 
-См. [Руководство по сборке](../docs/assembly-guide-ru.md) и [Матрицу конфигураций](../examples/README.md).
+See [Assembly Guide](../docs/assembly-guide-ru.md) and [Configuration Matrix](../examples/README.md).
