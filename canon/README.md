@@ -1,15 +1,15 @@
-### Канон 📜
+### Canon 📜
 
-Канон — это база фундаментальных текстов метода Зеркала. Не Ядра, не Обвески, не специалисты. Это свод правил, принципов и эталонов, на которых строится экосистема.
+The Canon is the base of the fundamental texts of the Mirror method. Not Cores, not Harnesses, not specialists. It is a set of rules, principles, and standards on which the ecosystem is built.
 
-### Доступные версии
+### Available Versions
 
-**Вэньянь (древнекитайский):**
+**Wenyan (Classical Chinese):**
 
-- [canon-wenyan.md](canon-wenyan.md) — базовый (тёплый, философ)
-- [canon-machine-wenyan.md](canon-machine-wenyan.md) — с машинного v1.0 (нож)
-- [canon-engineer-wenyan.md](canon-engineer-wenyan.md) — с инженерного v2.0 (скальпель)
+- [canon-wenyan.md](canon-wenyan.md) — basic (warm, philosopher)
+- [canon-machine-wenyan.md](canon-machine-wenyan.md) — from Machine v1.0 (knife)
+- [canon-engineer-wenyan.md](canon-engineer-wenyan.md) — from Engineer v2.0 (scalpel)
 
-## Связь с Ядром и Обвеской
+## Connection with Core and Harness
 
-Канон — это принципы. Ядро и Обвеска — их реализация для Архи. См. [Ядра](../core/README.md) и [Обвески](../harness/README.md).
+The Canon is principles. The Core and Harness are their implementation for an Arch. See [Cores](../core/README.md) and [Harnesses](../harness/README.md).
