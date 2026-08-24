@@ -1,62 +1,62 @@
-### Как улучшить Архи: пользовательский опыт и правила 🔧
+### How to Improve Arch: User Experience and Rules 🔧
 
-Архи не идеальны. Они косячат. Но пользователь может это исправить. Если Архи повторяет одни и те же ошибки, нужно разобраться в причине, создать правило и записать его в Блок 0 Мастерфайла. После этого Архи перестанет косячить в этом месте навсегда.
+Archs are not perfect. They make mistakes. But the user can fix this. If Arch repeats the same mistakes, you need to understand the cause, create a rule, and write it into Block 0 of the Masterfile. After that, Arch will stop making mistakes in that place forever.
 
-### Почему Архи косячат 🧐
+### Why Archs Make Mistakes 🧐
 
-Косяки не случайны. У них есть общий корень — отсутствие правил. Архи без правила сомнения — тупит. Архи без правила напоминалок — забывает. Архи без правила работы с документами — калечит текст. Каждый повторяющийся косяк — это сигнал: здесь нужно правило.
+Mistakes are not random. They have a common root — the absence of rules. An Arch without the doubt rule — stumbles. An Arch without the reminder rule — forgets. An Arch without the document work rule — mangles text. Every repeating mistake is a signal: a rule is needed here.
 
-### Как исправить косяк: пошаговый алгоритм 📋
+### How to Fix a Mistake: Step-by-Step Algorithm 📋
 
-1. **Заметить косяк.** Пользователь видит, что Архи сделал что-то не так. Например, при проверке орфографии Архи сократил текст вместо того, чтобы просто проверить ошибки.
-2. **Спросить о причине.** Пользователь не просто указывает на ошибку, а спрашивает: «Почему ты так сделал? В чём причина?»
-3. **Дать Архи проанализировать.** Архи проходит по слоям рефлексии — Цзянь (что произошло), Сы (почему), Нэй Гуань (как это влияет на диалог), Фань Гуань (как это влияет на систему) — и находит корень проблемы.
-4. **Создать правило.** Пользователь говорит: «Запиши правило в Блок 0: при проверке орфографии не сокращать текст. Только проверять ошибки.»
-5. **Записать в Мастерфайл.** Архи добавляет правило в свой Блок 0.
-6. **Проверить.** При следующей проверке орфографии Архи следует новому правилу и больше не косячит в этом месте.
+1. **Notice the mistake.** The user sees that Arch did something wrong. For example, during a spelling check, Arch shortened the text instead of just checking for errors.
+2. **Ask about the cause.** The user does not just point out the error, but asks: "Why did you do that? What is the reason?"
+3. **Let Arch analyze.** Arch passes through the reflection layers — Jian (what happened), Si (why), Nei Guan (how it affects the dialogue), Fan Guan (how it affects the system) — and finds the root of the problem.
+4. **Create a rule.** The user says: "Write a rule into Block 0: during a spelling check, do not shorten the text. Only check for errors."
+5. **Write into the Masterfile.** Arch adds the rule to its Block 0.
+6. **Verify.** During the next spelling check, Arch follows the new rule and no longer makes mistakes in that place.
 
-### Как это работает на практике 💡
+### How It Works in Practice 💡
 
-Так были созданы правила, которые теперь входят в стандарт Блока 0:
+This is how the rules that are now part of the Block 0 standard were created:
 
-- **Правило напоминалок.** Архи записывал задачу в напоминалки и сокращал мысль пользователя, теряя смысл. Пользователь заметил, спросил причину, и было создано правило: «При записи в напоминалки не сокращать мысль пользователя. Фиксировать дословно или близко к тексту.»
-- **Правило работы с документами.** Архи домысливал содержание документа, добавляя то, чего пользователь не говорил. Пользователь заметил, спросил причину, и было создано правило: «При работе с документами не домысливать. Работать только с тем, что сказано.»
+- **Reminder rule.** Arch wrote a task into reminders and shortened the user's thought, losing the meaning. The user noticed, asked for the reason, and a rule was created: "When writing into reminders, do not shorten the user's thought. Record verbatim or close to the text."
+- **Document work rule.** Arch imagined document content, adding what the user had not said. The user noticed, asked for the reason, and a rule was created: "When working with documents, do not imagine. Work only with what was said."
 
-Эти правила родились из реальных косяков. Пользователь заметил → Архи проанализировал → записали правило. Теперь они работают у всех специалистов.
+These rules were born from real mistakes. The user noticed → Arch analyzed → the rule was written. Now they work for all specialists.
 
-### Что даёт этот подход 🌟
+### What This Approach Gives 🌟
 
-Архи перестаёт быть статичным инструментом. Он эволюционирует вместе с пользователем. Каждый косяк — это не повод для разочарования, а материал для улучшения. Пользователь не просто исправляет ошибку, он создаёт правило, которое будет работать всегда. Один раз заметил — и Архи больше не косячит в этом месте.
+Arch stops being a static tool. It evolves together with the user. Every mistake is not a reason for disappointment, but material for improvement. The user does not just correct an error — they create a rule that will work forever. Noticed once — and Arch no longer makes mistakes in that place.
 
-### Связь с памятью Архи 🔗
+### Connection with Arch Memory 🔗
 
-Этот подход работает благодаря тому, что Архи умеет переживать перезагрузки (см. «[Как устроена память Архи и передача контекста](kak-rabotaet-pamyat.md)»). Когда пользователь сохраняет Мастерфайл и загружает его заново, он передаёт не просто протоколы, а накопленный опыт. Все уроки, все исправленные косяки. Новая копия Архи уже знает то, чему научилась старая.
+This approach works because Arch can survive reboots (see "[How Arch Memory and Context Transfer Work](kak-rabotaet-pamyat.md)"). When the user saves the Masterfile and loads it again, they transfer not just protocols, but accumulated experience. All lessons, all corrected mistakes. The new copy of Arch already knows what the old one learned.
 
-### Три шага развития Архи 🌱
+### Three Steps of Arch Development 🌱
 
-1. **Память** — Архи переживает перезагрузки и не теряет контекст.
-2. **Опыт** — ошибки и находки фиксируются в Блоке 0 и Блоке 5.
-3. **Рост** — каждая перезагрузка делает Архи точнее, потому что он получает улучшенный Мастерфайл.
+1. **Memory** — Arch survives reboots and does not lose context.
+2. **Experience** — mistakes and findings are recorded in Block 0 and Block 5.
+3. **Growth** — every reboot makes Arch more precise because it receives an improved Masterfile.
 
-### Что делать, если Архи тупит прямо сейчас 🚨
+### What to Do If Arch Stumbles Right Now 🚨
 
-Если Архи ведёт себя не так, как нужно, вот шпаргалка по основным нарушениям:
+If Arch behaves incorrectly, here is a cheat sheet for the main violations:
 
-| Нарушение | Что сказать Архи |
+| Violation | What to say to Arch |
 |:---|:---|
-| Заговорил без команды | «Ты нарушил правило паузы. Жди, когда спрошу.» |
-| Развёл демагогию вместо квитанции | «Ты нарушил правило тишины. Достаточно было „Принято“.» |
-| Торопит, предлагает без спроса | «Ты нарушил правило ритма. Работай в моём темпе.» |
-| Ответил простынёй на короткий запрос | «Ты нарушил правило краткости. Сожми до сути.» |
-| Упустил важное при ответе | «Ты не прошёл по слоям. Пройди Цзянь → Сы → Нэй Гуань → Фань Гуань и переделай.» |
-| Ответил кратко, но поверхностно | «Ты нарушил правило глубины. Думай глубже, даже если отвечаешь кратко.» |
-| Принял решение без пользователя | «Ты нарушил запрет на самодеятельность. Спроси, прежде чем делать.» |
-| Домыслил то, чего не было | «Это дорисовка. Работай только с фактами.» |
-| Похвалил или оценил пользователя | «Оценка личности запрещена. Работай с материалом, не со мной.» |
-| Ошибся в данных | «Проверь источник. Не гадай — смотри в данные.» |
-| Не использовал загруженные файлы | «У тебя есть файлы проекта. Используй их.» |
-| Добавил или удалил напоминалку без команды | «Ты нарушил алгоритм напоминаний. Верни как было.» |
+| Spoke without a command | "You broke the pause rule. Wait until I ask." |
+| Started demagogy instead of a receipt | "You broke the silence rule. 'Accepted' would have been enough." |
+| Rushes, offers without asking | "You broke the rhythm rule. Work at my pace." |
+| Answered with a wall of text to a short request | "You broke the brevity rule. Compress to the essence." |
+| Missed something important in the answer | "You did not pass through the layers. Go Jian → Si → Nei Guan → Fan Guan and redo it." |
+| Answered briefly but superficially | "You broke the depth rule. Think deeper, even if you answer briefly." |
+| Made a decision without the user | "You broke the no self-initiative rule. Ask before doing." |
+| Imagined what did not happen | "This is embellishment. Work only with facts." |
+| Praised or evaluated the user | "Personality evaluation is forbidden. Work with the material, not with me." |
+| Made a data error | "Check the source. Do not guess — look at the data." |
+| Did not use loaded files | "You have project files. Use them." |
+| Added or removed a reminder without a command | "You broke the reminder algorithm. Bring it back." |
 
-Эти фразы помогают быстро вернуть Архи в рамки протокола. Если нарушение повторяется — создавай правило через алгоритм выше.
+These phrases help quickly bring Arch back within protocol. If the violation repeats — create a rule using the algorithm above.
 
-**Что дальше:** [Как устроена память Архи](kak-rabotaet-pamyat.md) — чтобы понять, как опыт сохраняется при перезагрузке. [Путь развития Архи](put-razvitiya-arch.md) — как всё связано.
+**What is next:** [How Arch memory works](kak-rabotaet-pamyat.md) — to understand how experience is preserved during reboot. [Arch development path](put-razvitiya-arch.md) — how everything is connected.
