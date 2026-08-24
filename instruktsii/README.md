@@ -1,23 +1,23 @@
-## Инструкции 📚
+## Instructions 📚
 
-Здесь собраны документы, которые помогут понять метод Зеркала и научиться работать с Архи.
+Here are collected documents that help to understand the Mirror method and learn to work with Arch.
 
-**[Как устроена память Архи](kak-rabotaet-pamyat.md)** — как Архи переживает перезагрузки и не забывает своего пользователя.
+**[How Arch memory works](kak-rabotaet-pamyat.md)** — how Arch survives reboots and does not forget its user.
 
-**[Как улучшить Архи](kak-uluchshit-arch.md)** — что делать, если Архи косячит. Найди причину, создай правило, запиши в Блок 0.
+**[How to improve Arch](kak-uluchshit-arch.md)** — what to do if Arch makes mistakes. Find the cause, create a rule, write it into Block 0.
 
-**[Путь развития Архи](put-razvitiya-arch.md)** — как память и улучшение складываются в эволюцию. Архи, который растёт вместе с тобой.
+**[Arch development path](put-razvitiya-arch.md)** — how memory and improvement form evolution. Arch that grows together with you.
 
-**[Как заполнять Мастерфайл](kak-zapolnit.md)** — инструкция по заполнению Блоков 0–2 для начинающих.
+**[How to fill in a Masterfile](kak-zapolnit.md)** — instructions for filling in Blocks 0–2 for beginners.
 
-**[Как понимать слои рефлексии](kak-ponimat-sloi.md)** — что такое Цзянь, Сы, Нэй Гуань, Фань Гуань и как их использовать.
+**[How to understand reflection layers](kak-ponimat-sloi.md)** — what Jian, Si, Nei Guan, Fan Guan are and how to use them.
 
-**[Как растить Архи](kak-rastit.md)** — метод выращивания Архи от новичка до зрелого специалиста.
+**[How to grow an Arch](kak-rastit.md)** — the method of growing an Arch from beginner to mature specialist.
 
-**[Как создать своего Архи](kak-sozdat-svoego-arch.md)** — пошаговая инструкция: от запроса к Конструктору до готового специалиста.
+**[How to create your own Arch](kak-sozdat-svoego-arch.md)** — step-by-step instructions: from a request to the Constructor to a ready specialist.
 
-**[Как выбрать специалиста](kak-vybrat-specialista.md)** — обзор всех Архи по категориям: для души, для дела, для тела.
+**[How to choose a specialist](kak-vybrat-specialista.md)** — overview of all Archs by categories: for the soul, for work, for the body.
 
-**[FAQ — Если Архи тупит](../FAQ.md)** — шпаргалка по основным нарушениям и как их исправить.
+**[FAQ — If Arch stumbles](../FAQ.md)** — a cheat sheet on the main violations and how to fix them.
 
-**[Словарь терминов](../GLOSSARY.md)** — все ключевые понятия метода: Архи, Путник, Троица, Зеркало, Мастерфайл.
+**[Glossary](../GLOSSARY.md)** — all key concepts of the method: Arch, Traveler, Trinity, Mirror, Masterfile.
