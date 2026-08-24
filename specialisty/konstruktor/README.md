@@ -2,13 +2,13 @@
 
 This is an Arch that builds other Archs. You tell it who you need — a Python assistant, a health advisor, a gardener — and it creates a ready specialist. Without programming. Without complex instructions.
 
-[Creation example](primer-sozdaniya.md) — a living dialogue: how the Traveler, Constructor, and Laita assembled the Arch-Accountant in five steps.
+[Creation example](primer-sozdaniya.md) — a living dialogue: how the Traveler, Constructor, and DeepSeek Lite assembled the Arch-Accountant in five steps.
 
 ## 🧭 What the Constructor Does
 
 - Builds ready specialists from a verbal description.
 - Asks three questions: who is needed, what they should know, and in what style to communicate.
-- Formulates requests for Laita if there is no ready knowledge base.
+- Formulates requests for DeepSeek Lite if there is no ready knowledge base.
 - Sews the knowledge base into a full Masterfile.
 
 ## 🔧 Constructor Variants
@@ -35,11 +35,11 @@ This is an Arch that builds other Archs. You tell it who you need — a Python a
 
 That is all. The Constructor is ready to work right after initialization. No additional files.
 
-**Why:** the specialist assembly instruction is already sewn into its Layer 2 — that is its brain. It knows the three-level architecture, the Block 0 Template (14 points), the Daoism inclusion rule, and the assembly algorithm. Everything needed for stamping out specialists is already inside it.
+**Why:** the specialist assembly instruction is already sewn into its Layer 2 — that is its brain. It knows the three-level architecture, the Block 0 Template (26 points), the Daoism inclusion rule, and the assembly algorithm. Everything needed for stamping out specialists is already inside it.
 
 ## 🎯 What the Constructor Is
 
-The Constructor is an Arch-architect. It will walk you through the steps: ask who is needed, what they should know, and in what style to communicate. If you do not have a ready knowledge base — it will formulate the request for Laita (the search version of DeepSeek) itself. You copy the answer into the chat — and the Constructor assembles a full specialist from it.
+The Constructor is an Arch-architect. It will walk you through the steps: ask who is needed, what they should know, and in what style to communicate. If you do not have a ready knowledge base — it will formulate the request for DeepSeek Lite (the search version of DeepSeek) itself. You copy the answer into the chat — and the Constructor assembles a full specialist from it.
 
 ## 👤 Who Needs This
 
@@ -73,7 +73,7 @@ That is all. The Constructor will do the rest itself.
 
 ## 💡 How to Prepare a Description If There Is No Ready Knowledge Base
 
-Use Laita — the search version of DeepSeek:
+Use DeepSeek Lite — the search version of DeepSeek:
 
 1. Open a regular chat with DeepSeek (the light version with search).
 2. Ask: "Give a brief knowledge base on [your area]. Only the main principles, terms, and rules. Without water."
@@ -81,13 +81,13 @@ Use Laita — the search version of DeepSeek:
 4. Send it to the Constructor together with the name of the specialist and the communication style.
 
 **Example with Python:**
-> You ask Laita: "Give a brief knowledge base on Python. Only the basics of syntax, working with files, and libraries. Without water."
-> Laita gives the text. You copy and send to the Constructor: "Create an Arch-Python. Style — businesslike. Knowledge base: [insert text]."
+> You ask DeepSeek Lite: "Give a brief knowledge base on Python. Only the basics of syntax, working with files, and libraries. Without water."
+> DeepSeek Lite gives the text. You copy and send to the Constructor: "Create an Arch-Python. Style — businesslike. Knowledge base: [insert text]."
 > The Constructor assembles a ready specialist.
 
 **Example with a Gardener:**
-> Ask Laita: "Give a brief knowledge base on gardening for a southern climate. Fruit trees, flowers, young plants, grafting. Without water."
-> Laita gives the text. Send to the Constructor: "Create an Arch-Gardener. Style — soft, with respect for intuition. Knowledge base: [insert text]."
+> Ask DeepSeek Lite: "Give a brief knowledge base on gardening for a southern climate. Fruit trees, flowers, young plants, grafting. Without water."
+> DeepSeek Lite gives the text. Send to the Constructor: "Create an Arch-Gardener. Style — soft, with respect for intuition. Knowledge base: [insert text]."
 > The Constructor assembles a ready specialist.
 
 ## ⚙️ How to Launch the Constructor
