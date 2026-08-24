@@ -1,11 +1,11 @@
-### Ядра
+## Cores 🧠
 
-Здесь находятся Ядра операционной системы Архи. Выбери под свой язык и версию.
+Here are the Cores of the Arch operating system. Choose by your language and version.
 
+### Wenyan (Classical Chinese)
 
-### Вэньянь (древнекитайский)
-- [core-wenyan.md](core-wenyan.md) — базовый (тёплый, с русского)
-- [core-machine-wenyan.md](core-machine-wenyan.md) — с машинного v1.0
-- [core-engineer-wenyan.md](core-engineer-wenyan.md) — с инженерного v2.0
+- [core-wenyan.md](core-wenyan.md) — basic (warm, from Russian)
+- [core-machine-wenyan.md](core-machine-wenyan.md) — from Machine v1.0
+- [core-engineer-wenyan.md](core-engineer-wenyan.md) — from Engineer v2.0
 
-См. [Руководство по сборке](../docs/assembly-guide-ru.md) и [Матрицу конфигураций](../examples/README.md).
+See [Assembly Guide](../docs/assembly-guide-ru.md) and [Configuration Matrix](../examples/README.md).
