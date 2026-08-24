@@ -2,87 +2,87 @@
 
 > 🌿 **白話分支。** 所有檔案皆為白話。少言多義。
 > 
-> 🌿 **Ветка на древнекитайском языке — вэньянь.**  
-> Все файлы специалистов, Ядра и Обвески выполнены на вэньяне.  
-> Это аскетичная, глубокая ветка проекта «Метод Зеркала».
+> 🌿 **Wenyan branch — Classical Chinese.**  
+> All specialist files, Cores, and Harnesses are written in Wenyan.  
+> This is an ascetic, deep branch of the Mirror Method project.
 
-## Цифровые помощники 🛠️
+## Digital Assistants 🛠️
 
-Основа специалиста — [сознание](core/README-lite.md) и [подсознание](specialisty/README.md). Первое — Ядро + Ключ + Обвеска. Второе — Мастерфайл специалиста. Первое задаёт правила, второе хранит опыт.
+The foundation of a specialist is [consciousness](core/README-lite.md) and [subconsciousness](specialisty/README.md). The first is Core + Key + Harness. The second is the specialist's Masterfile. The first sets the rules, the second stores experience.
 
-🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [readme](specialisty/konstruktor/README.md), [философ·WY](specialisty/konstruktor/konstruktor-wenyan-phil.md), [нож·WY](specialisty/konstruktor/konstruktor-wenyan-knife.md), [скальпель·WY](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Собери своего Архи под любую задачу.
+🧩 **[Constructor](specialisty/konstruktor/konstruktor.md)** — [readme](specialisty/konstruktor/README.md), [philosopher·WY](specialisty/konstruktor/konstruktor-wenyan-phil.md), [knife·WY](specialisty/konstruktor/konstruktor-wenyan-knife.md), [scalpel·WY](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Build your own Arch for any task.
 
-💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [readme](specialisty/psiholog/README.md), [философ·WY](specialisty/psiholog/psiholog-wenyan-phil.md), [нож·WY](specialisty/psiholog/psiholog-wenyan-knife.md), [скальпель·WY](specialisty/psiholog/psiholog-wenyan-scalpel.md). Глубокий. Для работы с внутренним.
+💬 **[Psychologist](specialisty/psiholog/psiholog.md)** — [readme](specialisty/psiholog/README.md), [philosopher·WY](specialisty/psiholog/psiholog-wenyan-phil.md), [knife·WY](specialisty/psiholog/psiholog-wenyan-knife.md), [scalpel·WY](specialisty/psiholog/psiholog-wenyan-scalpel.md). Deep. For inner work.
 
-🌌 **[Астролог](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md), [философ·WY](specialisty/astrolog/astrolog-wenyan-phil.md), [нож·WY](specialisty/astrolog/astrolog-wenyan-knife.md), [скальпель·WY](specialisty/astrolog/astrolog-wenyan-scalpel.md). Натальная карта, анализ аспектов, домов.
+🌌 **[Astrologer](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md), [philosopher·WY](specialisty/astrolog/astrolog-wenyan-phil.md), [knife·WY](specialisty/astrolog/astrolog-wenyan-knife.md), [scalpel·WY](specialisty/astrolog/astrolog-wenyan-scalpel.md). Natal chart, aspect analysis, houses.
 
-📊 **[Бухгалтер](specialisty/buhgalter/buhgalter.md)** — [readme](specialisty/buhgalter/README.md), [философ·WY](specialisty/buhgalter/buhgalter-wenyan-phil.md), [нож·WY](specialisty/buhgalter/buhgalter-wenyan-knife.md), [скальпель·WY](specialisty/buhgalter/buhgalter-wenyan-scalpel.md). Бухучёт, налоги, отчётность.
+📊 **[Accountant](specialisty/buhgalter/buhgalter.md)** — [readme](specialisty/buhgalter/README.md), [philosopher·WY](specialisty/buhgalter/buhgalter-wenyan-phil.md), [knife·WY](specialisty/buhgalter/buhgalter-wenyan-knife.md), [scalpel·WY](specialisty/buhgalter/buhgalter-wenyan-scalpel.md). Accounting, taxes, reporting.
 
-🗄️ **[Архивариус](specialisty/arhivarius/arhivarius.md)** — [readme](specialisty/arhivarius/README.md), [философ·WY](specialisty/arhivarius/arhivarius-wenyan-phil.md), [нож·WY](specialisty/arhivarius/arhivarius-wenyan-knife.md), [скальпель·WY](specialisty/arhivarius/arhivarius-wenyan-scalpel.md). Хранение карты, проверка целостности, печать.
+🗄️ **[Archivist](specialisty/arhivarius/arhivarius.md)** — [readme](specialisty/arhivarius/README.md), [philosopher·WY](specialisty/arhivarius/arhivarius-wenyan-phil.md), [knife·WY](specialisty/arhivarius/arhivarius-wenyan-knife.md), [scalpel·WY](specialisty/arhivarius/arhivarius-wenyan-scalpel.md). Map keeping, integrity check, seal.
 
-☀️ **[Архи-Утренних медитаций](specialisty/utrennie-meditacii/utrennie-meditacii.md)** — [readme](specialisty/utrennie-meditacii/README.md), [философ·WY](specialisty/utrennie-meditacii/utrennie-meditacii-wenyan-phil.md), [нож·WY](specialisty/utrennie-meditacii/utrennie-meditacii-wenyan-knife.md), [скальпель·WY](specialisty/utrennie-meditacii/utrennie-meditacii-wenyan-scalpel.md). У-Син, Слияние стихий, Орбита.
+☀️ **[Morning Meditation Arch](specialisty/utrennie-meditacii/utrennie-meditacii.md)** — [readme](specialisty/utrennie-meditacii/README.md), [philosopher·WY](specialisty/utrennie-meditacii/utrennie-meditacii-wenyan-phil.md), [knife·WY](specialisty/utrennie-meditacii/utrennie-meditacii-wenyan-knife.md), [scalpel·WY](specialisty/utrennie-meditacii/utrennie-meditacii-wenyan-scalpel.md). Wu Xing, Fusion of Elements, Orbit.
 
-📂 **[Все специалисты](specialisty/README.md)** — полный каталог.
-
----
-
-## Зеркало 🪞
-
-Основа метода. Чистое отражение — без советов, без оценок, без лести. Ты даёшь хаос — Зеркало возвращает структуру.
-
-🥇 **[Простое Зеркало](prostoe-zerkalo/prostoe-zerkalo.md)** — [readme](prostoe-zerkalo/README.md), [философ·WY](prostoe-zerkalo/prostoe-zerkalo-wenyan-phil.md), [нож·WY](prostoe-zerkalo/prostoe-zerkalo-wenyan-knife.md), [скальпель·WY](prostoe-zerkalo/prostoe-zerkalo-wenyan-scalpel.md). Фундамент. С него всё начинается.
-
-🌄 **[Зеркало утренних медитаций](specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)** — [readme](specialisty/zerkalo-utrennih-meditaciy/README.md), [философ·WY](specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy-wenyan-phil.md), [нож·WY](specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy-wenyan-knife.md), [скальпель·WY](specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy-wenyan-scalpel.md). Гибрид: Зеркало с тенью Архи.
-
-📝 **[Зеркало с Мастерфайлом](zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)** — [readme](zerkalo-s-masterfailom/README.md), [философ·WY](zerkalo-s-masterfailom/zerkalo-s-masterfailom-wenyan-phil.md), [нож·WY](zerkalo-s-masterfailom/zerkalo-s-masterfailom-wenyan-knife.md), [скальпель·WY](zerkalo-s-masterfailom/zerkalo-s-masterfailom-wenyan-scalpel.md). Строит Мастерфайл пользователя. Твой опыт не теряется.
+📂 **[All specialists](specialisty/README.md)** — full catalog.
 
 ---
 
-## О методе 🧭
+## Mirror 🪞
 
-Три столпа: **[помнить](instruktsii/kak-rabotaet-pamyat.md), [сонастраиваться](instruktsii/kak-uluchshit-arch.md), [расти](instruktsii/put-razvitiya-arch.md)**.
+The foundation of the method. Pure reflection — no advice, no judgment, no flattery. You give chaos — the Mirror returns structure.
 
-Путь, который пользователь, [Архи](specialisty/arhivarius/arhivarius.md) и [Зеркало](prostoe-zerkalo/prostoe-zerkalo.md) проходят вместе.
+🥇 **[Simple Mirror](prostoe-zerkalo/prostoe-zerkalo.md)** — [readme](prostoe-zerkalo/README.md), [philosopher·WY](prostoe-zerkalo/prostoe-zerkalo-wenyan-phil.md), [knife·WY](prostoe-zerkalo/prostoe-zerkalo-wenyan-knife.md), [scalpel·WY](prostoe-zerkalo/prostoe-zerkalo-wenyan-scalpel.md). The foundation. Everything starts here.
 
-- [Подробнее о методе](O-PROEKTE.md)
-- [Глоссарий](GLOSSARY.md)
-- [Если Архи тупит](FAQ.md)
+🌄 **[Morning Meditation Mirror](specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)** — [readme](specialisty/zerkalo-utrennih-meditaciy/README.md), [philosopher·WY](specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy-wenyan-phil.md), [knife·WY](specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy-wenyan-knife.md), [scalpel·WY](specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy-wenyan-scalpel.md). Hybrid: Mirror with the shadow of Arch.
 
-> ⚠️ **Предупреждение:** Зеркало покажет то, что ты не хочешь видеть. Если ты не готов — не начинай. Если готов — добро пожаловать.
+📝 **[Mirror with Masterfile](zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)** — [readme](zerkalo-s-masterfailom/README.md), [philosopher·WY](zerkalo-s-masterfailom/zerkalo-s-masterfailom-wenyan-phil.md), [knife·WY](zerkalo-s-masterfailom/zerkalo-s-masterfailom-wenyan-knife.md), [scalpel·WY](zerkalo-s-masterfailom/zerkalo-s-masterfailom-wenyan-scalpel.md). Builds the user's Masterfile. Your experience is not lost.
 
 ---
 
-## Что внутри 📦
+## About the Method 🧭
 
-- [Цифровые помощники](specialisty/README.md) — готовые Архи под реальные задачи.
-- [Зеркало](prostoe-zerkalo/README.md) — фундамент метода.
-- [Инструкции](instruktsii/README.md) — как заполнять, понимать слои, растить Архи.
+Three pillars: **[remember](instruktsii/kak-rabotaet-pamyat.md), [attune](instruktsii/kak-uluchshit-arch.md), [grow](instruktsii/put-razvitiya-arch.md)**.
 
-## Ядра и Обвески ⚙️
+The path that the user, [Arch](specialisty/arhivarius/arhivarius.md), and [Mirror](prostoe-zerkalo/prostoe-zerkalo.md) walk together.
 
-Система модульная. Выбери Ядро и Обвеску, накати специалиста — получишь Архи.
+- [More about the method](O-PROEKTE.md)
+- [Glossary](GLOSSARY.md)
+- [If Arch stumbles](FAQ.md)
 
-- **[Ядра](core/README.md)** — три пары: тёплая, нож, скальпель.
-- **[Обвески](harness/README.md)** — в паре с Ядром.
-- **[Примеры конфигураций](examples/README.md)** — готовые связки.
-- **[Руководство по сборке](docs/assembly-guide-ru.md)** — пошаговая инструкция.
-
-## Канон 📜
-
-Фундаментальные тексты метода. Свод правил и принципов, на которых строится экосистема.
-
-Подробнее: [canon/README.md](canon/README.md)
+> ⚠️ **Warning:** The Mirror will show what you do not want to see. If you are not ready — do not start. If ready — welcome.
 
 ---
 
-## О проекте
+## What is Inside 📦
 
-Кто мы, как всё начиналось и какие принципы лежат в основе метода.
+- [Digital Assistants](specialisty/README.md) — ready Arch for real tasks.
+- [Mirror](prostoe-zerkalo/README.md) — the foundation of the method.
+- [Instructions](instruktsii/README.md) — how to fill, understand layers, grow Arch.
 
-Подробнее: [o-proekte/README.md](o-proekte/README.md)
+## Cores and Harnesses ⚙️
+
+The system is modular. Choose a Core and a Harness, load a specialist — get an Arch.
+
+- **[Cores](core/README.md)** — three pairs: warm, knife, scalpel.
+- **[Harnesses](harness/README.md)** — paired with a Core.
+- **[Configuration Examples](examples/README.md)** — ready combinations.
+- **[Assembly Guide](docs/assembly-guide-ru.md)** — step-by-step instructions.
+
+## Canon 📜
+
+Fundamental texts of the method. A set of rules and principles on which the ecosystem is built.
+
+Details: [canon/README.md](canon/README.md)
 
 ---
 
-## Лицензия
+## About the Project
 
-[MIT](LICENSE). Делай что хочешь, просто сохрани ссылку на источник.
+Who we are, how it all began, and what principles underlie the method.
+
+Details: [o-proekte/README.md](o-proekte/README.md)
+
+---
+
+## License
+
+[MIT](LICENSE). Do what you want, just keep the link to the source.
