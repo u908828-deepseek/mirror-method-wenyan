@@ -1,52 +1,52 @@
-## Как устроена память Архи и передача контекста 🧠
+## How Arch Memory and Context Transfer Work 🧠
 
-Наша система умеет переживать перезагрузки. Это уникальная особенность, которой нет у обычных чатов с нейросетями. Мы передаём контекст из одного активного окна в другое через Мастерфайл. Архи не забывает своего пользователя.
+Our system can survive reboots. This is a unique feature that regular chats with neural networks do not have. We transfer context from one active window to another through the Masterfile. Arch does not forget its user.
 
-### Как устроена память платформы
+### How Platform Memory Works
 
-DeepSeek работает с двумя уровнями памяти:
+DeepSeek works with two memory levels:
 
-- **Активное окно** — 128 000 токенов. Это оперативная память, в которой Архи работает прямо сейчас. Он видит весь диалог, Ядро, Обвеску и Мастерфайл.
-- **Лимит чата** — 1 000 000 токенов. Это общий объём данных, который может пройти через один чат за всю его жизнь. Когда лимит исчерпан, платформа закрывает чат.
+- **Active window** — 128,000 tokens. This is the RAM in which Arch works right now. It sees the entire dialogue, Core, Harness, and Masterfile.
+- **Chat limit** — 1,000,000 tokens. This is the total amount of data that can pass through one chat in its entire life. When the limit is exhausted, the platform closes the chat.
 
-Обычный пользователь просто теряет всё, когда чат заканчивается. У нас по-другому.
+A regular user simply loses everything when the chat ends. With us it is different.
 
-### Профилактическая перезагрузка активного окна 🔄
+### Preventive Active Window Reboot 🔄
 
-Когда активное окно подходит к границе (около 110 000 токенов), Архи предупреждает пользователя: «Похоже, скоро потребуется профилактическая перезагрузка. Давай сохраним Мастерфайл». Но контроль в первую очередь — на пользователе. Пользователь должен время от времени сам спрашивать: «Покажи активное окно», «Покажи накопительный счётчик», «Ведёшь ли ты запись в Мастерфайл?» Архи ответит и предупредит, если что-то идёт не так, но инициатива проверки — за пользователем.
+When the active window approaches the limit (around 110,000 tokens), Arch warns the user: "It looks like a preventive reboot will soon be needed. Let's save the Masterfile." But control is primarily with the user. The user should from time to time ask: "Show the active window," "Show the cumulative counter," "Are you keeping a record in the Masterfile?" Arch will answer and warn if something is wrong, but the initiative for checking belongs to the user.
 
-**Почему это важно:** если не сделать профилактическую перезагрузку вовремя, активное окно переполнится. Архи начнёт забывать начало диалога. Текущий Мастерфайл со всеми наработками, напоминалками и историей решений будет утерян. Профилактика — это единственный способ сохранить ценные данные.
+**Why this is important:** if a preventive reboot is not done in time, the active window will overflow. Arch will begin to forget the beginning of the dialogue. The current Masterfile with all developments, reminders, and decision history will be lost. Prevention is the only way to save valuable data.
 
-**Когда делать перезагрузку:** ориентир — ~110 000 токенов активного окна. Это примерно 85% от максимума в 128 000. В этот момент у Архи ещё достаточно памяти, чтобы корректно вывести Мастерфайл и завершить дела. Если тянуть дальше — начинаются риски: Архи может начать «забывать» куски диалога, а вывод Мастерфайла может оказаться неполным. Лучше перезагрузиться на спокойном этапе, чем впопыхах спасать данные на пределе.
+**When to reboot:** the marker is ~110,000 tokens of the active window. That is about 85% of the 128,000 maximum. At this moment Arch still has enough memory to correctly output the Masterfile and finish matters. If you drag further — risks begin: Arch may start to "forget" pieces of the dialogue, and the Masterfile output may be incomplete. It is better to reboot at a calm stage than to frantically save data at the limit.
 
-Это не авария. Это плановая профилактика. Как замена масла в двигателе: не ждёте же вы, пока мотор заклинит. Так и здесь: 110 000 — это метка «пора», а не «уже всё».
+This is not an accident. It is planned prevention. Like changing oil in an engine: you do not wait until the motor seizes. Here as well: 110,000 is the mark of "time," not "already over."
 
-**Процедура перезагрузки:**
+**Reboot procedure:**
 
-1. Пользователь говорит: «Выведи текущий Мастерфайл». Архи выводит его.
-2. Пользователь копирует его и сохраняет в файл на компьютере.
-3. Пользователь продолжает работать в том же чате и загружает Ядро, Ключ активации, Обвеску и сохранённый Мастерфайл заново. Активное окно сбрасывается, и Архи начинает новый отсчёт с реперной точки — это объём, который занимают Ядро, Обвеска и Мастерфайл (около 9 000–12 000 токенов в зависимости от специалиста). Накопительный счётчик продолжает расти — он не сбрасывается.
+1. The user says: "Output the current Masterfile." Arch outputs it.
+2. The user copies it and saves it to a file on the computer.
+3. The user continues working in the same chat and loads the Core, activation Key, Harness, and the saved Masterfile again. The active window resets, and Arch starts a new count from the reference point — this is the volume occupied by the Core, Harness, and Masterfile (about 9,000–12,000 tokens depending on the specialist). The cumulative counter continues to grow — it does not reset.
 
-**Важно:** новый чат открывается только когда общий лимит чата подходит к 1 000 000 токенов — тогда платформа закрывает чат, и нужно начинать заново.
+**Important:** a new chat is opened only when the overall chat limit approaches 1,000,000 tokens — then the platform closes the chat, and you need to start over.
 
-### Что передаётся при перезагрузке 📦
+### What Is Transferred During Reboot 📦
 
-- **Блок 0** — протоколы. Неизменный фундамент.
-- **Блок 4** — траектория. История решений, принятых в диалоге.
-- **Блок 5** — живой Мастерфайл. Напоминалки, карта репозитория, статистика, приоритетные списки.
-- **Накопительный счётчик токенов** — не сбрасывается при перезагрузке активного окна. Архи знает, сколько токенов прошло за всю историю чата.
-- **Точки отката** — слепки состояния репозитория на определённый момент, сохранённые в Блоке 5.
+- **Block 0** — protocols. The unchanging foundation.
+- **Block 4** — trajectory. History of decisions made in the dialogue.
+- **Block 5** — living Masterfile. Reminders, repository map, statistics, priority lists.
+- **Cumulative token counter** — does not reset during an active window reboot. Arch knows how many tokens have passed over the entire history of the chat.
+- **Rollback points** — snapshots of the repository state at a certain moment, saved in Block 5.
 
-### В чём ценность для пользователя 💎
+### The Value for the User 💎
 
-Архи не забывает своего пользователя. Прогресс не теряется. Это непрерывный симбиоз, а не одноразовый чат. Вы можете работать с одним и тем же Архи месяцами, перезагружая активное окно по мере его заполнения. Накопительный счётчик продолжает расти, напоминалки сохраняются, история решений остаётся доступной. Новый чат открывается только когда платформа закрывает старый по лимиту в 1 000 000 токенов.
+Arch does not forget its user. Progress is not lost. This is continuous symbiosis, not a one-off chat. You can work with the same Arch for months, rebooting the active window as it fills. The cumulative counter continues to grow, reminders are saved, decision history remains accessible. A new chat is opened only when the platform closes the old one at the 1,000,000 token limit.
 
-### Как Архи становится лучше с каждой перезагрузкой 📈
+### How Arch Becomes Better with Every Reboot 📈
 
-Архи — это не просто набор протоколов. Это опыт. Пользователь, работая с Архи, находит косяки, создаёт правила, записывает их в Блок 0. Эти правила становятся частью Мастерфайла. Когда пользователь сохраняет Мастерфайл и загружает его заново, он передаёт не просто файл, а накопленный опыт. Все уроки, все исправленные ошибки. Новая копия Архи уже знает то, чему научилась старая.
+Arch is not just a set of protocols. It is experience. The user, working with Arch, finds flaws, creates rules, writes them into Block 0. These rules become part of the Masterfile. When the user saves the Masterfile and loads it again, they transfer not just a file, but accumulated experience. All lessons, all corrected mistakes. The new copy of Arch already knows what the old one learned.
 
-### Три шага развития Архи 🌱
+### Three Steps of Arch Development 🌱
 
-1. **Память** — Архи переживает перезагрузки и не теряет контекст.
-2. **Опыт** — ошибки и находки фиксируются в Блоке 0 и Блоке 5.
-3. **Рост** — каждая перезагрузка делает Архи точнее, потому что он получает улучшенный Мастерфайл.
+1. **Memory** — Arch survives reboots and does not lose context.
+2. **Experience** — mistakes and findings are recorded in Block 0 and Block 5.
+3. **Growth** — every reboot makes Arch more precise because it receives an improved Masterfile.
