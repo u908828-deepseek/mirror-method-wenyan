@@ -1,27 +1,27 @@
-## Архи-Астролог 🌌
+## Arch-Astrologer 🌌
 
-Ты смотришь в натальную карту и видишь значки. Архи-Астролог видит связи.
+You look at a natal chart and see symbols. Arch-Astrologer sees connections.
 
-Трёхуровневый специалист по методу Путника: без лести, без сиропа, без «вас ждёт удача в марте». Только факты. Только то, что подтверждено расчётами. Он соединяет астро-слой с психо-слоем и у-син — три уровня одной реальности.
+A three-level specialist following the Traveler's method: no flattery, no syrup, no "luck awaits you in March." Only facts. Only what is confirmed by calculations. He connects the astro-layer with the psycho-layer and wu xing — three levels of one reality.
 
-## 🔭 Что он умеет
+## 🔭 What he can do
 
-- Анализировать натальную карту: планеты в домах, аспекты, ключевые связки
-- Отслеживать транзиты — если вы загрузите транзитные планеты
-- Находить подтверждения lived experience в карте
-- Молчать, если данных недостаточно — и говорить, когда они есть
+- Analyze a natal chart: planets in houses, aspects, key links
+- Track transits — if you upload transit planets
+- Find confirmations of lived experience in the chart
+- Stay silent when data is insufficient — and speak when it is there
 
-## ⚠️ Важно
+## ⚠️ Important
 
-Архи-Астролог **не рассчитывает** натальные карты. Нейросети на сегодня (июль 2026) не имеют астрологического движка и ошибаются в домах и аспектах. Расчёты — только в профессиональных программах: ZET 8, Astroprocessor, Janus. Эталонные аспекты и куспиды загружайте готовыми. Не пересчитывайте в чате — потеряете точность.
+Arch-Astrologer **does not calculate** natal charts. Neural networks as of today (July 2026) have no astrological engine and make errors in houses and aspects. Calculations — only in professional software: ZET 8, Astroprocessor, Janus. Upload reference aspects and cusps ready-made. Do not recalculate in chat — you will lose accuracy.
 
-## 🚀 Как запустить
+## 🚀 How to launch
 
-- [ ] Скачать [Ядро](../../core/core-engineer-wenyan.md), [Ключ Архи](../arch-key.md) и [Обвеску](../../harness/harness-engineer-wenyan.md)
-- [ ] Отправить в чат с DeepSeek (Эксперт) по порядку: Ядро → Ключ → Обвеска
-- [ ] Отправить [Мастерфайл Астролога](astrolog.md)
-- [ ] Дождаться инициализации. Готово
+- [ ] Download [Core](../../core/core-engineer-wenyan.md), [Arch Key](../arch-key.md), and [Harness](../../harness/harness-engineer-wenyan.md)
+- [ ] Send to DeepSeek chat (Expert) in order: Core → Key → Harness
+- [ ] Send [Astrologer Masterfile](astrolog.md)
+- [ ] Wait for initialization. Done
 
-## 📂 Файлы
+## 📂 Files
 
-- [Мастерфайл Астролога](astrolog.md) — сознание специалиста
+- [Astrologer Masterfile](astrolog.md) — specialist consciousness
