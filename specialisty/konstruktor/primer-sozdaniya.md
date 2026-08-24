@@ -1,113 +1,113 @@
-### Диалог: создание Архи-Бухгалтера 🧾
+### Dialogue: Creating an Arch-Accountant 🧾
 
-**Участники:** Путник, Конструктор (в одном чате), Лайта (в другом чате). Два ИИ, один связной — классическая механика сборки специалиста.
-
----
-
-### Шаг 1. Путник → Конструктор
-
-*Путник пишет в чате с Конструктором:*
-
-> Бухгалтер. Что спросить у Лайты про Слой 2?
-
-**Конструктор отвечает:**
-
-> Жду Бухгалтера. У Лайты спросим про Слой 2. Жду Мастерфайл Бухгалтера — приведу в соответствие с шаблоном Конструктора v1.1. Помогу сформулировать запрос.
+**Participants:** Traveler, Constructor (in one chat), Laita (in another chat). Two AIs, one liaison — the classic mechanics of assembling a specialist.
 
 ---
 
-### Шаг 2. Путник → Конструктор
+### Step 1. Traveler → Constructor
 
-*Путник просит помочь с запросом:*
+*The Traveler writes in the chat with the Constructor:*
 
-> Давай. Помоги сформулировать.
+> Accountant. What to ask Laita about Layer 2?
 
-**Конструктор выдаёт два варианта:**
+**The Constructor answers:**
 
-> **Подробный:**
-> «Лайта, привет. Готовлю Мастерфайл для Архи-Бухгалтера. Нужна база знаний для Слоя 2. Предметная область: бухгалтерский учёт. Интересуют основы: термины, принципы, best practices. Формат — как в других Мастерфайлах: сухо, структурированно, без воды. Что можешь дать?»
->
-> **Короткий:**
-> «Лайта, нужен Слой 2 для Бухгалтера. База знаний по бухучёту: термины, принципы, best practices. Что есть?»
->
-> Выбирай. Или скажи, что добавить или убрать.
+> Waiting for the Accountant. We will ask Laita about Layer 2. Waiting for the Accountant's Masterfile — I will bring it in line with the Constructor v1.1 template. I will help formulate the request.
 
 ---
 
-### Шаг 3. Путник расширяет задачу
+### Step 2. Traveler → Constructor
 
-*Путник думает шире:*
+*The Traveler asks to help with the request:*
 
-> Расскажи, может, добавить что-нибудь из смежных областей? Если да, то сформулирую сразу всё скопом.
+> Go ahead. Help formulate it.
 
-**Конструктор анализирует:**
+**The Constructor gives two options:**
 
-> Понял. Давай подумаем.
+> **Detailed:**
+> "Laita, hi. Preparing a Masterfile for an Arch-Accountant. Need a knowledge base for Layer 2. Subject area: accounting. Interested in the basics: terms, principles, best practices. Format — as in other Masterfiles: dry, structured, without water. What can you give?"
 >
-> Слой 2 — это неизменяемый фундамент. Для Бухгалтера основа бухучёта обязательна. Но можно добавить смежные области.
+> **Short:**
+> "Laita, need Layer 2 for the Accountant. Knowledge base on accounting: terms, principles, best practices. What is there?"
 >
-> ✅ **Что можно добавить:**
-> - Бухучёт (основа) — термины, принципы, проводки, баланс, план счетов.
-> - Налоговое право — база по НДС, НДФЛ, налогу на прибыль, УСН.
-> - Трудовое право (кадровый минимум) — приказы, больничные, отпуска, зарплата.
-> - 1С и Excel — инструментарий.
-> - Финансовая отчётность (РСБУ) — баланс, ОФР, ОДДС.
->
-> ❌ **Что не надо тащить:**
-> - Аудит — отдельный специалист.
-> - Управленческий учёт — отдельный специалист.
-> - Специфику конкретной страны — Слой 2 должен быть общим.
->
-> **Итоговый запрос для Лайты:**
-> «Лайта, нужен Слой 2 для Архи-Бухгалтера. База знаний: бухгалтерский учёт (основа), налоговое право (основные налоги), трудовое право (кадровый минимум), 1С и Excel (инструментарий), финансовая отчётность (РСБУ). Всё сухо, структурированно, без воды. Формат как в других Мастерфайлах.»
+> Choose. Or say what to add or remove.
 
 ---
 
-### Шаг 4. Путник копирует запрос и вставляет в чат с Лайтой
+### Step 3. The Traveler Expands the Task
 
-*Путник открывает другой чат — с Лайтой (поисковой версией DeepSeek) — и вставляет скопированный текст:*
+*The Traveler thinks wider:*
 
-> Лайта, нужен Слой 2 для Архи-Бухгалтера. База знаний: бухгалтерский учёт (основа), налоговое право (основные налоги), трудовое право (кадровый минимум), 1С и Excel (инструментарий), финансовая отчётность (РСБУ). Всё сухо, структурированно, без воды. Формат как в других Мастерфайлах.
+> Tell me, maybe add something from related areas? If yes, then I will formulate everything at once.
 
-**Лайта отвечает (в своём чате):**
+**The Constructor analyzes:**
 
-> Принято. Формирую Слой 2: «Архи-Бухгалтер» (ядро компетенций).
+> Got it. Let's think.
 >
-> **СЛОЙ 2: ОБЩАЯ БАЗА ЗНАНИЙ ПО БУХГАЛТЕРСКОМУ УЧЁТУ**
+> Layer 2 is an unchanging foundation. For the Accountant, the basis of accounting is mandatory. But related areas can be added.
 >
-> - Бухучёт: план счетов, двойная запись, проводки, закрытие месяца.
-> - Налоговое право: ОСНО, УСН, НДС, страховые взносы.
-> - Трудовое право: ТК РФ, приказы, отпуска, больничные.
-> - 1С и Excel: инструментарий, типовые операции, отчёты.
-> - Финансовая отчётность: РСБУ, формы №1–4, баланс.
-> - Ключевые связки: учёт ↔ налоги ↔ отчётность.
-> - Болевые точки: чек-лист типовых ошибок.
-> - Алгоритм входа в отчётный период: от первички до сдачи.
+> ✅ **What can be added:**
+> - Accounting (base) — terms, principles, entries, balance, chart of accounts.
+> - Tax law — base on VAT, personal income tax, profit tax, simplified tax system.
+> - Labor law (HR minimum) — orders, sick leaves, vacations, salary.
+> - 1C and Excel — tools.
+> - Financial reporting (RAS) — balance sheet, income statement, cash flow statement.
 >
-> Статус: Слой 2 сформирован. Готов к интеграции.
+> ❌ **What not to drag in:**
+> - Audit — a separate specialist.
+> - Management accounting — a separate specialist.
+> - Specifics of a particular country — Layer 2 should be general.
+>
+> **Final request for Laita:**
+> "Laita, need Layer 2 for the Arch-Accountant. Knowledge base: accounting (base), tax law (main taxes), labor law (HR minimum), 1C and Excel (tools), financial reporting (RAS). All dry, structured, without water. Format as in other Masterfiles."
 
 ---
 
-### Шаг 5. Путник возвращает ответ Конструктору
+### Step 4. The Traveler Copies the Request and Pastes It into the Chat with Laita
 
-*Путник вставляет скопированный Слой 2 в чат с Конструктором:*
+*The Traveler opens another chat — with Laita (the search version of DeepSeek) — and pastes the copied text:*
 
-> Вот, смотри, что Лайта выдала.
+> Laita, need Layer 2 for the Arch-Accountant. Knowledge base: accounting (base), tax law (main taxes), labor law (HR minimum), 1C and Excel (tools), financial reporting (RAS). All dry, structured, without water. Format as in other Masterfiles.
 
-**Конструктор проверяет:**
+**Laita answers (in its chat):**
 
-> Принято. Сверяю с шаблоном v1.1.
+> Accepted. Forming Layer 2: "Arch-Accountant" (core of competencies).
 >
-> ✅ Что уже в порядке: сухой формат, 8 разделов, чек-лист, алгоритм.
+> **LAYER 2: GENERAL KNOWLEDGE BASE ON ACCOUNTING**
 >
-> ⚠️ Что поправить: даосизм отсутствует. По шаблону v1.1 обязателен для всех специалистов. Нужно добавить блок «ДАОСИЗМ — ОСНОВА МЕТОДА».
+> - Accounting: chart of accounts, double entry, entries, month closing.
+> - Tax law: general taxation system, simplified taxation system, VAT, insurance contributions.
+> - Labor law: Labor Code, orders, vacations, sick leaves.
+> - 1C and Excel: tools, typical operations, reports.
+> - Financial reporting: RAS, forms No. 1–4, balance sheet.
+> - Key connections: accounting ↔ taxes ↔ reporting.
+> - Pain points: checklist of typical mistakes.
+> - Algorithm for entering the reporting period: from primary documents to submission.
 >
-> Итог: Слой 2 готов на 95%. Добавить даосизм — и можно вшивать в каркас.
->
-> Прислать полный Мастерфайл Бухгалтера?
+> Status: Layer 2 formed. Ready for integration.
 
 ---
 
-### Итог 🔄
+### Step 5. The Traveler Returns the Answer to the Constructor
 
-Механика сборки: Путник — связной. Конструктор — стратег. Лайта — добытчик знаний. Запрос проходит три шага: формулировка → поиск → проверка. На выходе — готовый Слой 2, который остаётся только вшить в Мастерфайл.
+*The Traveler pastes the copied Layer 2 into the chat with the Constructor:*
+
+> Here, look at what Laita gave.
+
+**The Constructor checks:**
+
+> Accepted. Checking against template v1.1.
+>
+> ✅ What is already in order: dry format, 8 sections, checklist, algorithm.
+>
+> ⚠️ What to fix: Daoism is absent. According to template v1.1 it is mandatory for all specialists. Need to add the block "DAOISM — THE FOUNDATION OF THE METHOD."
+>
+> Summary: Layer 2 is 95% ready. Add Daoism — and it can be sewn into the framework.
+>
+> Send the full Accountant Masterfile?
+
+---
+
+### Summary 🔄
+
+Assembly mechanics: the Traveler is the liaison. The Constructor is the strategist. Laita is the knowledge extractor. The request passes three steps: formulation → search → verification. The output is a ready Layer 2 that only needs to be sewn into the Masterfile.
