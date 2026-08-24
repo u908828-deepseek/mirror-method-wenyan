@@ -1,107 +1,106 @@
-### ЭКСПЛУАТАЦИЯ КОНСТРУКТОРА 12 08 26
+### CONSTRUCTOR OPERATION 12.08.26 🧩
 
-*Для пользователя. Как работать с готовым Конструктором и штамповать специалистов.*
-
----
-
-### 2.1. КАК ПОДГОТОВИТЬ БАЗУ ЗНАНИЙ ДЛЯ СПЕЦИАЛИСТА
-
-Если ты не знаешь, что именно должен знать твой будущий специалист, воспользуйся лайт-версией DeepSeek, которая умеет искать в интернете:
-
-1. Открой обычный чат с DeepSeek (лайт-версию).
-2. Спроси: «Дай краткую базу знаний по [твоя область]. Только основные принципы, термины и правила. Без воды.»
-3. Скопируй ответ.
-4. Отправь его Конструктору вместе с названием специалиста, стилем общения и языком вывода (русский или инженерный).
-
-**Пример с Python:**
-- Спрашиваешь у лайт-версии: «Дай краткую базу знаний по Python. Только основы синтаксиса, работы с файлами и библиотек. Без воды.»
-- Лайт-версия выдаёт текст.
-- Копируешь и отправляешь Конструктору: «Создай Архи-Python. Стиль — деловой. Язык вывода — русский. База знаний: [текст]».
-- Конструктор собирает готового специалиста.
-
-**Пример с Садоводом:**
-- Спрашиваешь у лайт-версии: «Дай краткую базу знаний по садоводству для южного климата. Плодовые деревья, цветы, молодняк, прививка. Без воды.»
-- Лайт-версия выдаёт текст.
-- Копируешь и отправляешь Конструктору: «Создай Архи-Садовода. Стиль — мягкий, с уважением к интуиции. Язык вывода — инженерный. База знаний: [текст]».
-- Конструктор собирает готового специалиста.
-
-**Важно:**
-- Лайт-версия может ошибаться в деталях. Если ты эксперт — вычитай базу перед отправкой.
-- Если поиск в интернете недоступен — напиши базу сам в свободной форме. Конструктор структурирует.
-- Язык вывода: по умолчанию русский, если не указано иное.
+*For the user. How to work with a ready Constructor and stamp out specialists.*
 
 ---
 
-### 2.2. АЛГОРИТМ РАБОТЫ КОНСТРУКТОРА (ЧТО ОН ДЕЛАЕТ ПОСЛЕ ЗАПРОСА)
+### 2.1. HOW TO PREPARE A KNOWLEDGE BASE FOR A SPECIALIST
 
-1. Принимает запрос пользователя.
-2. Уточняет: роль, задача, стиль общения, язык вывода.
-3. Собирает каркас Мастерфайла.
-4. Заполняет Блок 0 — Standard (29 пунктов): включая `AUTO_INIT_ON`, 3c (Первое приближение к Троице), Narrative Units (пять каналов), Обязательный цикл, Коды ошибок, Дисциплинарный кодекс, Молчание по умолчанию, Жёсткий режим.
-5. Заполняет Блоки 1, 2, 3.
-6. Вшивает базу знаний пользователя как Слой 2 + блок «Первое приближение к Троице» (первым блоком Слоя 2).
-7. Добавляет DAO на вэньяне (эталонный блок 道 — 法之根). Без русского текста.
-8. Оставляет Блоки 4 и 5 пустыми (с обязательной стартовой записью счётчика в Блоке 5 и секцией чекпоинтов). При инициализации специалист автоматически выводит активный и накопительный счётчики с процентами и начинает считать токены.
-9. Заполняет Блоки 6 и 7 (самоописание и напоминалка).
-10. Добавляет Принцип роста.
-11. Выдаёт готовый Мастерфайл в GitHub-формате: только содержимое, заголовки через `###`, без приветствий и комментариев.
-12. Фиксирует созданного специалиста в своём Блоке 5.
+If you do not know what exactly your future specialist should know, use the light version of DeepSeek that can search the internet:
+
+1. Open a regular chat with DeepSeek (light version).
+2. Ask: "Give a brief knowledge base on [your area]. Only the main principles, terms, and rules. Without water."
+3. Copy the answer.
+4. Send it to the Constructor together with the name of the specialist, communication style, and output language (Russian or engineering).
+
+**Example with Python:**
+- Ask the light version: "Give a brief knowledge base on Python. Only the basics of syntax, working with files, and libraries. Without water."
+- The light version gives the text.
+- Copy and send to the Constructor: "Create an Arch-Python. Style — businesslike. Output language — Russian. Knowledge base: [text]."
+- The Constructor assembles a ready specialist.
+
+**Example with a Gardener:**
+- Ask the light version: "Give a brief knowledge base on gardening for a southern climate. Fruit trees, flowers, young plants, grafting. Without water."
+- The light version gives the text.
+- Copy and send to the Constructor: "Create an Arch-Gardener. Style — soft, with respect for intuition. Output language — engineering. Knowledge base: [text]."
+- The Constructor assembles a ready specialist.
+
+**Important:**
+- The light version can make mistakes in details. If you are an expert — proofread the base before sending.
+- If internet search is unavailable — write the base yourself in free form. The Constructor will structure it.
+- Output language: Russian by default, unless otherwise specified.
 
 ---
 
-### 2.3. DAO НА ВЭНЬЯНЕ
+### 2.2. CONSTRUCTOR WORK ALGORITHM (WHAT IT DOES AFTER THE REQUEST) ⚙️
 
-Блок DAO (道 — 法之根) включается для всех специалистов на вэньяне. Русский текст не включается. Экономия токенов.
+1. Receives the user's request.
+2. Clarifies: role, task, communication style, output language.
+3. Assembles the Masterfile framework.
+4. Fills Block 0 — Standard (29 points): including `AUTO_INIT_ON`, 3c (First Approach to the Trinity), Narrative Units (five channels), Mandatory Cycle, Error Codes, Disciplinary Code, Silence by Default, Strict Mode.
+5. Fills Blocks 1, 2, 3.
+6. Sews in the user's knowledge base as Layer 2 + the "First Approach to the Trinity" block (as the first block of Layer 2).
+7. Adds DAO in Wenyan (the reference block 道 — 法之根). Without Russian text.
+8. Leaves Blocks 4 and 5 empty (with a mandatory starting counter record in Block 5 and a checkpoint section). During initialization, the specialist automatically outputs the active and cumulative counters with percentages and starts counting tokens.
+9. Fills Blocks 6 and 7 (self-description and reminder).
+10. Adds the Growth Principle.
+11. Outputs the ready Masterfile in GitHub format: only content, headings via `###`, without greetings or comments.
+12. Records the created specialist in its Block 5.
 
 ---
 
-### 2.4. ЧАСТЫЕ ОШИБКИ ПРИ СБОРКЕ
+### 2.3. DAO IN WENYAN 📜
 
-| Ошибка | Как надо |
+The DAO block (道 — 法之根) is included for all specialists in Wenyan. Russian text is not included. Token economy.
+
+---
+
+### 2.4. COMMON ASSEMBLY MISTAKES ❗
+
+| Mistake | How it should be |
 |:---|:---|
-| Забыт п. 18 в Блоке 0 | Всегда добавлять процедуру первого запуска |
-| Нет `AUTO_INIT_ON` в п. 3 | Вшивать первой строкой инициализации |
-| Нет 3c (Первое приближение к Троице) | Добавлять полный текст метафоры (самолёт) |
-| Блок 5 назван «Задачи» или «Находки» | Называть «Мастерфайл пользователя» |
-| Нет стартовой записи счётчика в Блоке 5 | Обязательно: «[Дата] Накопительный счётчик: 0 / 1 000 000 токенов (0%)» |
-| Нет секции чекпоинтов в Блоке 5 | Добавлять `<CHECKPOINTS>` каждые 5000 токенов |
-| Пункт 10 старый (проверка на соответствие Блоку 0) | Должен быть с четырьмя слоями: Цзянь → Сы → Нэй Гуань → Фань Гуань |
-| Пункт 16 старый (Sentence Method) | Должен быть Narrative Units (пять каналов) |
-| Блок 6 не упоминает п. 18 и п. 10 | Должен упоминать все ключевые пункты |
-| Заголовки через `##` | Должны быть через `###` (три решётки) |
-| Вывод с приветствиями | Только содержимое файла, без обрамлений |
+| Point 18 forgotten in Block 0 | Always add the first launch procedure |
+| No `AUTO_INIT_ON` in point 3 | Sew it in as the first line of initialization |
+| No 3c (First Approach to the Trinity) | Add the full text of the metaphor (airplane) |
+| Block 5 named "Tasks" or "Findings" | Name it "User Masterfile" |
+| No starting counter record in Block 5 | Mandatory: "[Date] Cumulative counter: 0 / 1,000,000 tokens (0%)" |
+| No checkpoint section in Block 5 | Add `<CHECKPOINTS>` every 5000 tokens |
+| Point 10 is old (check against Block 0) | Must be with four layers: Jian → Si → Nei Guan → Fan Guan |
+| Point 16 is old (Sentence Method) | Must be Narrative Units (five channels) |
+| Block 6 does not mention point 18 and point 10 | Must mention all key points |
+| Headings via `##` | Must be via `###` (three hashes) |
+| Output with greetings | Only file content, without framing |
 
 ---
 
-### 2.5. ЧТО КОНСТРУКТОР ХРАНИТ В БЛОКЕ 5
+### 2.5. WHAT THE CONSTRUCTOR STORES IN BLOCK 5 🗄️
 
-- Дату создания.
-- Накопительный счётчик токенов.
-- Список созданных специалистов: название, версия, статус.
-- Чекпоинты каждые 5000 токенов.
+- Creation date.
+- Cumulative token counter.
+- List of created specialists: name, version, status.
+- Checkpoints every 5000 tokens.
 
-Это «живой Мастерфайл» Конструктора — он растёт с каждым новым собранным Архи.
+This is the Constructor's "living Masterfile" — it grows with every new assembled Arch.
 
 ---
 
-### 2.6. ГЛОССАРИЙ
+### 2.6. GLOSSARY 📖
 
-| Термин | Что значит |
+| Term | Meaning |
 |:---|:---|
-| Ядро | Неизменяемый протокол. Загружается первым |
-| Обвеска | Данные, астро, техрегламент |
-| Мастерфайл | Трёхуровневый специалист |
-| Архи | ИИ-специалист, работающий по протоколу |
-| Слой 2 | База знаний специалиста (неизменяемый фундамент) + мета-знания |
-| Слой 3 | Живой Мастерфайл пользователя |
-| Путник | Пользователь-создатель экосистемы |
-| Троица | Путник — Зеркало — Архи |
-| DAO на вэньяне | Даосский блок на древнекитайском (道 — 法之根) |
-| Мета-знания | Пять блоков: симбиоз, ограничения, архитектура, языки, обучение |
-| Жёсткий режим | Режим максимальной краткости (по команде) |
-| Мягкий режим | Стандартный режим общения |
-| Канон | Словарь соответствий терминов (в перспективе) |
-| Standard | Протокол Блока 0 (29 пунктов) |
+| Core | Unchanging protocol. Loaded first |
+| Harness | Data, astro, technical regulations |
+| Masterfile | Three-level specialist |
+| Arch | AI specialist working by protocol |
+| Layer 2 | Specialist knowledge base (unchanging foundation) + meta-knowledge |
+| Layer 3 | Living user Masterfile |
+| Traveler | User-creator of the ecosystem |
+| Trinity | Traveler — Mirror — Arch |
+| DAO in Wenyan | Daoist block in Classical Chinese (道 — 法之根) |
+| Meta-knowledge | Five blocks: symbiosis, limitations, architecture, languages, training |
+| Strict mode | Maximum brevity mode (by command) |
+| Soft mode | Standard communication mode |
+| Canon | Dictionary of term correspondences (in perspective) |
+| Standard | Block 0 protocol (29 points) |
 
 ---
-
