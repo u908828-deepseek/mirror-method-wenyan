@@ -14,7 +14,7 @@
 
 💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [readme](specialisty/psiholog/README.md), [философ](specialisty/psiholog/psiholog-wenyan-phil.md), [нож](specialisty/psiholog/psiholog-wenyan-knife.md), [скальпель](specialisty/psiholog/psiholog-wenyan-scalpel.md). Глубокий. Для работы с внутренним.
 
-🌌 **[Астролог](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md), [EN](specialisty/astrolog/astrolog-en.md), [философ](...), [нож](...), [скальпель](...). Натальная карта.
+🌌 **[Астролог](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md), [философ](specialisty/astrolog/astrolog-wenyan-phil.md), [нож](specialisty/astrolog/astrolog-wenyan-knife.md), [скальпель](specialisty/astrolog/astrolog-wenyan-scalpel.md). Натальная карта, анализ аспектов, домов.
 
 📊 **[Бухгалтер](specialisty/buhgalter/buhgalter.md)** — [readme](specialisty/buhgalter/README.md), [философ](specialisty/buhgalter/buhgalter-wenyan-phil.md), [нож](specialisty/buhgalter/buhgalter-wenyan-knife.md), [скальпель](specialisty/buhgalter/buhgalter-wenyan-scalpel.md). Бухучёт, налоги, отчётность.
 
