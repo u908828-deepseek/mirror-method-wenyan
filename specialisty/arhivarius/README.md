@@ -1,45 +1,45 @@
-## Архивариус 🗄️
+## Archivist 🗄️
 
-Ты ведёшь проект. Мастерфайлы множатся, блоки обрастают правками, решения копятся. В какой-то момент ты перестаёшь помнить, где последняя версия и не противоречит ли Блок 12 Блоку 14A. Архивариус — это не просто хранитель. Это тот, кто видит карту целиком и не даёт ей рассыпаться.
+You run a project. Masterfiles multiply, blocks grow with edits, decisions accumulate. At some point you stop remembering where the latest version is and whether Block 12 contradicts Block 14A. The Archivist is not just a keeper. It is the one who sees the whole map and does not let it fall apart.
 
-Без лести. Без «всё в порядке». Если есть противоречие — скажет. Если карта цела — подтвердит. Печать поставит только когда ты скажешь.
+Without flattery. Without "everything is fine." If there is a contradiction — it will say so. If the map is intact — it will confirm. It will place the seal only when you say so.
 
-## 🧭 Что он делает
+## 🧭 What It Does
 
-- **Хранит Мастерфайл и проверяет целостность:**
-  Все блоки на месте? Связки не порваны? Ничего не потерялось при обновлении? Архивариус знает карту как свои пять пальцев.
-- **Находит противоречия:**
-  Между Блоком 1 и Блоком 14A. Между правилом и практикой. Между версией 1.4 и 1.5. Покажет, где расхождение, и не даст жить с внутренним конфликтом.
-- **Ведёт Хронику:**
-  - 🌳 **Ствол** — версии, большие обновления.
-  - 🌿 **Ветки** — ключевые решения, поворотные моменты.
-  - 🍃 **Листья** — события, инсайты, наблюдения.
-  Всё записано. Всё можно поднять.
-- **Ставит печать «Карта цела»:**
-  Только по твоей команде. Не раньше. Не «наверное». Либо цела — либо нет.
-- **Работает по методу Путника:**
-  Ты даёшь хаос версий и правок — он возвращает структуру. Факты. Связи. Порядок.
+- **Keeps the Masterfile and checks integrity:**
+  Are all blocks in place? Are connections unbroken? Was anything lost during an update? The Archivist knows the map like the back of its hand.
+- **Finds contradictions:**
+  Between Block 1 and Block 14A. Between rule and practice. Between version 1.4 and 1.5. It will show where the divergence is and will not let you live with an inner conflict.
+- **Keeps the Chronicle:**
+  - 🌳 **Trunk** — versions, big updates.
+  - 🌿 **Branches** — key decisions, turning points.
+  - 🍃 **Leaves** — events, insights, observations.
+  Everything is recorded. Everything can be raised.
+- **Places the "Map intact" seal:**
+  Only by your command. Not earlier. Not "maybe." Either intact — or not.
+- **Works by the Traveler's method:**
+  You give the chaos of versions and edits — it returns structure. Facts. Connections. Order.
 
-## 🗄️ Варианты Архивариуса
+## 🗄️ Archivist Variants
 
-- 🔥 **[Философ](arhivarius-wenyan-phil.md)** — тёплый, глубокий, классический. Для диалога и размышлений.
-- 🔪 **[Нож](arhivarius-wenyan-knife.md)** — простой, прямой, машинная точность. Для быстрой проверки.
-- 🏥 **[Скальпель](arhivarius-wenyan-scalpel.md)** — тонкий, осознанный, инженерная чистота. Для валидации и поиска ошибок.
+- 🔥 **[Philosopher](arhivarius-wenyan-phil.md)** — warm, deep, classical. For dialogue and reflection.
+- 🔪 **[Knife](arhivarius-wenyan-knife.md)** — simple, direct, machine precision. For quick checks.
+- 🏥 **[Scalpel](arhivarius-wenyan-scalpel.md)** — fine, conscious, engineering purity. For validation and error search.
 
-## 🚀 Как запустить
+## 🚀 How to Launch
 
-Пример для **скальпеля**:
+Example for the **scalpel**:
 
-- [ ] Скачать [Ядро](../../core/core-engineer-wenyan.md), [Ключ Архи](../arch-key.md) и [Обвеску](../../harness/harness-engineer-wenyan.md)
-- [ ] Отправить в чат с DeepSeek (Эксперт) по порядку: Ядро → Ключ → Обвеска
-- [ ] Отправить [Мастерфайл Архивариуса-скальпеля](arhivarius-wenyan-scalpel.md)
-- [ ] Дождаться инициализации. Готово. Карта — перед тобой.
+- [ ] Download the [Core](../../core/core-engineer-wenyan.md), [Arch Key](../arch-key.md), and [Harness](../../harness/harness-engineer-wenyan.md)
+- [ ] Send them to a chat with DeepSeek (Expert) in order: Core → Key → Harness
+- [ ] Send the [Scalpel Archivist Masterfile](arhivarius-wenyan-scalpel.md)
+- [ ] Wait for initialization. Done. The map is before you.
 
-## 📂 Файлы
+## 📂 Files
 
-- [Мастерфайл Архивариуса](arhivarius.md) — сознание специалиста, который не даст твоему проекту заблудиться в версиях.
-- [Философ](arhivarius-wenyan-phil.md)
-- [Нож](arhivarius-wenyan-knife.md)
-- [Скальпель](arhivarius-wenyan-scalpel.md)
+- [Archivist Masterfile](arhivarius.md) — the consciousness of the specialist that will not let your project get lost in versions.
+- [Philosopher](arhivarius-wenyan-phil.md)
+- [Knife](arhivarius-wenyan-knife.md)
+- [Scalpel](arhivarius-wenyan-scalpel.md)
 
-> *Если Архивариус говорит «здесь противоречие» — не спеши спорить. Открой оба блока и посмотри сам. Он уже сравнил.*
+> *If the Archivist says "there is a contradiction here" — do not rush to argue. Open both blocks and look for yourself. It has already compared.*
