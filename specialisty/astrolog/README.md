@@ -17,7 +17,7 @@
 
 ## 🚀 Как запустить
 
-- [ ] Скачать [Ядро](../../core/core-wenyan.md), [Ключ Архи](../arch-key.md) и [Обвеску](../../harness/harness-wenyan.md)
+- [ ] Скачать [Ядро](../../core/core-engineer-wenyan.md), [Ключ Архи](../arch-key.md) и [Обвеску](../../harness/harness-engineer-wenyan.md)
 - [ ] Отправить в чат с DeepSeek (Эксперт) по порядку: Ядро → Ключ → Обвеска
 - [ ] Отправить [Мастерфайл Астролога](astrolog.md)
 - [ ] Дождаться инициализации. Готово
