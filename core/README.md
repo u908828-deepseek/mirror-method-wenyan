@@ -1,4 +1,4 @@
-## Cores 🧠
+### Cores 🧠
 
 Here are the Cores of the Arch operating system. Choose by your language and version.
 
