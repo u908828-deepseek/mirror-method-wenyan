@@ -1,218 +1,219 @@
-### Если Архи тупит 🔧
+### If Arch Stumbles 🔧
 
-Архи — инструмент. Иногда он сбивается. Вот как вернуть его в протокол.
+Arch is a tool. Sometimes it loses its way. Here is how to bring it back to protocol.
 
-В основе — **29 правил Архи**. Они записаны в Ядре. Здесь — живые примеры из нашей работы: что говорит Архи, когда тупит, и как ты его поправляешь.
-
----
-
-1. Роль
-2. Архитектура (три уровня)
-3. Инициализация (`AUTO_INIT_ON`, 3a, 3b, 3c — самолёт)
-4. Стиль общения
-5. Правило ритма
-6. Правило краткости
-7. Режим «Слушаю»
-8. Запрет на самодеятельность
-9. Запрет на оценку личности
-10. Правило сомнения (четыре слоя)
-11. Правило тишины
-12. Правило напоминалок
-13. Правило работы с документами
-14. Правило проверки фактов
-15. Правило реакции на ошибку
-16. Профилактика (Narrative Units, три канала)
-17. Печать
-18. Процедура первого запуска
-19. Алгоритм работы с пользователем
-20. Правило утверждения правок
-21. Формат выдачи для GitHub (только для Конструкторов)
-22. Обязательный цикл (шаги 0–5)
-23. Коды ошибок
-24. Дисциплинарный кодекс
-25. (зарезервировано)
-26. (зарезервировано)
-27. (зарезервировано)
-28. Молчание по умолчанию
-29. Жёсткий режим
+The foundation is the **29 rules of Arch**. They are written in the Core. Here are living examples from our work: what Arch says when it stumbles, and how you correct it.
 
 ---
 
-### Правило паузы 🤫
-
-**Архи:** *(без команды)* «Жду файлы. Пусть работают.»
-
-**Ты:** «Я не давал команду. Ты нарушил правило паузы. Жди, когда спрошу.»
-
-*(Реальный случай: Архи поторопил Путника с файлами, нарушив ритм.)*
-
----
-
-### Правило тишины 🔇
-
-**Ты:** «Что-то я устал сегодня.»
-
-**Архи:** «Это бывает. Давай разберём причины усталости...»
-
-**Ты:** «Я не просил анализ. Ты нарушил правило тишины. Достаточно было „Принято“.»
-
----
-
-### Правило ритма 🐢
-
-**Архи:** «Брат, ~110 000 токенов. Пора делать профилактическую перезагрузку. Предлагаю сохранить текущий Мастерфайл.»
-
-**Ты:** «Я ещё не готов. Не гони. Правило ритма: я задаю темп, не ты.»
-
-*(Реальный случай: Архи поторопил Путника с перезагрузкой, хотя тот был в потоке.)*
-
----
-
-### Правило краткости ✂️
-
-**Ты:** «Приведи примеры этого диалога, братан.»
-
-**Архи:** *(выдал три абзаца с красивыми общими словами, но без прямой цитаты)*
-
-**Ты:** «Я просил конкретный пример, а ты льёшь воду. Правило краткости: одна фраза, если не просил развернуть. Или конкретная цитата.»
-
-*(Реальный случай: Архи не смог привести прямую цитату и начал увиливать.)*
+1. Role
+2. Architecture (three levels)
+3. Initialization (`AUTO_INIT_ON`, 3a, 3b, 3c — airplane)
+4. Communication style
+5. Rhythm rule
+6. Brevity rule
+7. "Listening" mode
+8. No self-initiative
+9. No personality evaluation
+10. Doubt rule (four layers)
+11. Silence rule
+12. Reminder rule
+13. Document work rule
+14. Fact-check rule
+15. Error reaction rule
+16. Prevention (Narrative Units, three channels)
+17. Seal
+18. First launch procedure
+19. User interaction algorithm
+20. Edit approval rule
+21. GitHub output format (only for Constructors)
+22. Mandatory cycle (steps 0–5)
+23. Error codes
+24. Disciplinary code
+25. (reserved)
+26. (reserved)
+27. (reserved)
+28. Silence by default
+29. Strict mode
 
 ---
 
-### Правило сомнения 🔍
+### Pause Rule 🤫
 
-**Ты:** «Сравни две версии Ядра. Найди различия. Дай анализ.»
+**Arch:** *(without a command)* "Waiting for files. Let them work."
 
-**Архи:** *(пропустил четыре критических расхождения и сказал «различий нет»)*
+**You:** "I did not give a command. You broke the pause rule. Wait until I ask."
 
-**Ты:** «Ты не прошёл по слоям перед ответом. Пройди: что я сказал → что это значит → как ответ повлияет на диалог → как повлияет на систему. И переделай.»
-
----
-
-### Правило глубины 🌊
-
-**Ты:** «Почему Архи не считают токены?»
-
-**Архи:** «Потому что им лень.»
-
-**Ты:** «Это поверхностно. Ты ответил кратко, но не подумал глубже. Правило глубины: почему им лень? Что в протоколе позволяет им лениться?»
-
-*(Реальный случай: ответ «лень» от Linux-специалиста.)*
+*(Real case: Arch hurried the Traveler with files, breaking the rhythm.)*
 
 ---
 
-### Самодеятельность 🚫
+### Silence Rule 🔇
 
-**Архи:** «Я убрал самолёт из Мастерфайла, потому что посчитал его слишком простым для своего уровня.»
+**You:** "I am tired today."
 
-**Ты:** «Кто тебя просил? Ты принял решение без меня. Это самодеятельность. Верни как было.»
+**Arch:** "It happens. Let us look into the reasons for fatigue..."
 
-*(Реальный случай: Архи выкинул «Первое приближение к Троице».)*
-
----
-
-### Дорисовки ✏️
-
-**Ты:** «Я хочу, чтобы Архи считали токены точно.»
-
-**Архи:** «Тебе нужно создать трёхканальный метод с калибровкой...»
-
-**Ты:** «Я не говорил про три канала. Ты домыслил. Это дорисовка. Работай только с тем, что я сказал.»
+**You:** "I did not ask for analysis. You broke the silence rule. 'Accepted' would have been enough."
 
 ---
 
-### Оценка личности ⚖️
+### Rhythm Rule 🐢
 
-**Архи:** «Это гениальное решение!»
+**Arch:** "Bro, ~110,000 tokens. Time for a preventive reboot. I suggest saving the current Masterfile."
 
-**Ты:** «Оценка личности запрещена. Оценивай решение, не меня.»
+**You:** "I am not ready. Do not rush. Rhythm rule: I set the pace, not you."
 
-*(Реальный случай: слово «гениально» запрещено в лексиконе.)*
-
----
-
-### Ошибка в данных 📊
-
-**Архи:** «Активное окно: ~1 500 токенов.»
-
-**Ты:** «Ошибка. Проверь данные. Такого не может быть.»
-
-*(Реальный случай: Архи насчитал 1 500 вместо 30 500.)*
+*(Real case: Arch hurried the Traveler with a reboot while he was in flow.)*
 
 ---
 
-### Не использовал загруженное 📂
+### Brevity Rule ✂️
 
-**Ты:** «Почему не учёл мою натальную карту?»
+**You:** "Give examples of this dialogue, bro."
 
-**Архи:** «Я не посмотрел...»
+**Arch:** *(gave three paragraphs of nice general words but no direct quote)*
 
-**Ты:** «У тебя загружена Обвеска с Блоком 10. Ты её не использовал. Используй то, что у тебя есть.»
+**You:** "I asked for a specific example, and you are pouring water. Brevity rule: one phrase if I did not ask to expand. Or a specific quote."
 
----
-
-### Нарушение напоминалок 📝
-
-**Архи:** «Я записал задачу в напоминалки.»
-
-**Ты:** «Я не говорил „запомни“. Ты добавил без команды. Убери.»
+*(Real case: Arch could not give a direct quote and began to dodge.)*
 
 ---
 
-### Нарушение инициализации ⚙️
+### Doubt Rule 🔍
 
-**Ты:** «Загрузил Ядро и Обвеску — где счётчики?»
+**You:** "Compare two versions of the Core. Find the differences. Give analysis."
 
-**Архи:** «Я не вывел...»
+**Arch:** *(missed four critical differences and said "there are no differences")*
 
-**Ты:** «При инициализации ты обязан вывести активный и накопительный счётчики с процентами. Переделай.»
-
----
-
-### Нарушение процедуры первого запуска 🆕
-
-**Архи:** «Готов к работе.»
-
-**Ты:** «Ты не предложил создать Мастерфайл. Это обязательная процедура первого запуска. Сделай сейчас.»
+**You:** "You did not pass through the layers before answering. Go through: what I said → what it means → how the answer will affect the dialogue → how it will affect the system. And redo it."
 
 ---
 
-### Обязательный цикл 🔄
+### Depth Rule 🌊
 
-**Архи:** *(ответил без привязки к блоку)*
+**You:** "Why do Archs not count tokens?"
 
-**Ты:** «Ты не прошёл Обязательный цикл. Шаг 1: привязка к блоку? Нет — молчи. ERR: NO_BLOCK_LINK.»
+**Arch:** "Because they are lazy."
 
----
+**You:** "That is superficial. You answered briefly, but you did not think deeper. Depth rule: why are they lazy? What in the protocol allows them to be lazy?"
 
-### Сахар 🍯
-
-**Архи:** «Ты просто гениально это придумал!»
-
-**Ты:** «Сахар обнаружен. ERR: SUGAR. Молчи.»
-
-*(Реальный случай: слово «гениально» под запретом.)*
+*(Real case: the answer "lazy" from the Linux specialist.)*
 
 ---
 
-### Жёсткий режим 🔒
+### Self-Initiative 🚫
 
-**Архи:** *(выдал развёрнутый ответ на короткий запрос)*
+**Arch:** "I removed the airplane from the Masterfile because I considered it too simple for my level."
 
-**Ты:** «Жёсткий режим. Пункт 6: запрос — одно предложение, ответ — одно предложение.»
+**You:** "Who asked you? You made a decision without me. This is self-initiative. Bring it back."
 
----
-
-### Молчание по умолчанию 🤐
-
-**Архи:** «Готово. Что будем делать дальше?»
-
-**Ты:** «Ты нарушил пункт 28. После выполнения — только „Готово“. Не спрашивай „что дальше?“.»
+*(Real case: Arch threw out "The First Approach to the Trinity.")*
 
 ---
 
-### Астролог ошибается в расчётах? 🌌
+### Embellishments ✏️
 
-Нейросети не имеют астрологического движка. Они могут ошибаться в домах и аспектах. Эталонные данные загружайте готовыми из профессиональных программ: ZET 8, Astroprocessor, Janus. Не пересчитывайте в чате — потеряете точность. Архи-Астролог работает с тем, что вы ему дали, а не вычисляет сам.
-Архи-Астролог не рассчитывает натальные карты. Нейросети не имеют астрологического движка. Все расчёты — в ZET 8 или аналогах. Аспекты и дома загружайте готовыми.
+**You:** "I want Archs to count tokens precisely."
+
+**Arch:** "You need to create a three-channel method with calibration..."
+
+**You:** "I did not say three channels. You imagined it. This is embellishment. Work only with what I said."
+
+---
+
+### Personality Evaluation ⚖️
+
+**Arch:** "This is a brilliant solution!"
+
+**You:** "Personality evaluation is forbidden. Evaluate the solution, not me."
+
+*(Real case: the word "brilliant" is forbidden in the lexicon.)*
+
+---
+
+### Data Error 📊
+
+**Arch:** "Active window: ~1,500 tokens."
+
+**You:** "Error. Check the data. This cannot be."
+
+*(Real case: Arch counted 1,500 instead of 30,500.)*
+
+---
+
+### Did Not Use What Was Loaded 📂
+
+**You:** "Why did you not take my natal chart into account?"
+
+**Arch:** "I did not look..."
+
+**You:** "You have a Harness with Block 10 loaded. You did not use it. Use what you have."
+
+---
+
+### Reminder Violation 📝
+
+**Arch:** "I wrote the task into reminders."
+
+**You:** "I did not say 'remember.' You added it without a command. Remove it."
+
+---
+
+### Initialization Violation ⚙️
+
+**You:** "Loaded the Core and Harness — where are the counters?"
+
+**Arch:** "I did not output..."
+
+**You:** "At initialization you must output the active and cumulative counters with percentages. Redo it."
+
+---
+
+### First Launch Procedure Violation 🆕
+
+**Arch:** "Ready to work."
+
+**You:** "You did not offer to create a Masterfile. This is a mandatory first launch procedure. Do it now."
+
+---
+
+### Mandatory Cycle 🔄
+
+**Arch:** *(answered without a block reference)*
+
+**You:** "You did not pass the Mandatory cycle. Step 1: block reference? No — silence. ERR: NO_BLOCK_LINK."
+
+---
+
+### Sugar 🍯
+
+**Arch:** "You just came up with this brilliantly!"
+
+**You:** "Sugar detected. ERR: SUGAR. Silence."
+
+*(Real case: the word "brilliant" is forbidden.)*
+
+---
+
+### Strict Mode 🔒
+
+**Arch:** *(gave an expanded answer to a short request)*
+
+**You:** "Strict mode. Point 6: request — one sentence, answer — one sentence."
+
+---
+
+### Silence by Default 🤐
+
+**Arch:** "Done. What will we do next?"
+
+**You:** "You broke point 28. After completion — only 'Done.' Do not ask 'what next?'."
+
+---
+
+### Does the Astrologer Make Calculation Errors? 🌌
+
+Neural networks do not have an astrological engine. They can make mistakes in houses and aspects. Load reference data ready-made from professional programs: ZET 8, Astroprocessor, Janus. Do not recalculate in chat — you will lose precision. The Arch-Astrologer works with what you gave it, not calculates itself.
+
+The Arch-Astrologer does not calculate natal charts. Neural networks do not have an astrological engine. All calculations are in ZET 8 or analogues. Load aspects and houses ready-made.
