@@ -8,7 +8,7 @@
 
 Основа специалиста — [сознание](core/README-lite.md) и [подсознание](specialisty/README.md). Первое — Ядро + Ключ + Обвеска. Второе — Мастерфайл специалиста. Первое задаёт правила, второе хранит опыт.
 
-🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [философ](specialisty/konstruktor/konstruktor-wenyan-phil.md), [нож](specialisty/konstruktor/konstruktor-wenyan-knife.md), [скальпель](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Собери своего Архи под любую задачу.
+🧩 **[Конструктор](specialisty/konstruktor/konstruktor.md)** — [readme](specialisty/konstruktor/README.md), [философ](specialisty/konstruktor/konstruktor-wenyan-phil.md), [нож](specialisty/konstruktor/konstruktor-wenyan-knife.md), [скальпель](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Собери своего Архи под любую задачу.
 
 💬 **[Психолог](specialisty/psiholog/psiholog.md)** — [философ](specialisty/psiholog/psiholog-wenyan-phil.md), [нож](specialisty/psiholog/psiholog-wenyan-knife.md), [скальпель](specialisty/psiholog/psiholog-wenyan-scalpel.md). Глубокий. Для работы с внутренним.
 
