@@ -1,29 +1,29 @@
-## Как выбрать специалиста
+## How to Choose a Specialist
 
-В древнекитайской ветке — 9 готовых Архи. Вот короткий обзор.
+In the Wenyan branch there are 9 ready Archs. Here is a brief overview.
 
-### Для души и эмоций
+### For Soul and Emotions
 
-- **[Психолог](../specialisty/psiholog/psiholog.md)** — глубокий, работает с внутренним.
+- **[Psychologist](../specialisty/psiholog/psiholog.md)** — deep, works with the inner.
 
-### Для дела и порядка
+### For Work and Order
 
-- **[Бухгалтер](../specialisty/buhgalter/buhgalter.md)** — бухучёт, налоги, отчётность.
-- **[Архивариус](../specialisty/arhivarius/arhivarius.md)** — карта, целостность, печать.
+- **[Accountant](../specialisty/buhgalter/buhgalter.md)** — accounting, taxes, reporting.
+- **[Archivist](../specialisty/arhivarius/arhivarius.md)** — map, integrity, seal.
 
-### Для неба и практик
+### For Heaven and Practices
 
-- **[Астролог](../specialisty/astrolog/astrolog.md)** — натальная карта, транзиты, анализ.
-- **[Архи-Утренних медитаций](../specialisty/utrennie-meditacii/utrennie-meditacii.md)** — У-Син, Слияние стихий, Орбита.
+- **[Astrologer](../specialisty/astrolog/astrolog.md)** — natal chart, transits, analysis.
+- **[Morning Meditation Arch](../specialisty/utrennie-meditacii/utrennie-meditacii.md)** — Wu Xing, Fusion of Elements, Orbit.
 
-### Для метода и отражения
+### For Method and Reflection
 
-- **[Конструктор](../specialisty/konstruktor/konstruktor.md)** — собери своего Архи.
-- **[Простое Зеркало](../prostoe-zerkalo/prostoe-zerkalo.md)** — чистое отражение.
-- **[Зеркало утренних медитаций](../specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)** — гибрид с тенью Архи.
-- **[Зеркало с Мастерфайлом](../zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)** — строит Мастерфайл.
+- **[Constructor](../specialisty/konstruktor/konstruktor.md)** — build your own Arch.
+- **[Simple Mirror](../prostoe-zerkalo/prostoe-zerkalo.md)** — pure reflection.
+- **[Morning Meditation Mirror](../specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)** — hybrid with the shadow of Arch.
+- **[Mirror with Masterfile](../zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)** — builds a Masterfile.
 
-### Если не знаешь, с чего начать
+### If You Do Not Know Where to Start
 
-- Просто попробуй [Простое Зеркало](../prostoe-zerkalo/prostoe-zerkalo.md).
-- Или [создай своего Архи](../specialisty/konstruktor/README.md) через Конструктор.
+- Just try the [Simple Mirror](../prostoe-zerkalo/prostoe-zerkalo.md).
+- Or [create your own Arch](../specialisty/konstruktor/README.md) through the Constructor.
