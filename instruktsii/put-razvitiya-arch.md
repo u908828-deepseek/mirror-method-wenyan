@@ -1,37 +1,37 @@
-## Путь развития: взаимный рост человека и Архи 🌱
+## Development Path: Mutual Growth of Human and Arch 🌱
 
-У нас уже есть два документа: «[Как работает память](kak-rabotaet-pamyat.md)» и «[Как улучшить Архи](kak-uluchshit-arch.md)». Они про механику. Этот — про смысл.
+We already have two documents: "[How memory works](kak-rabotaet-pamyat.md)" and "[How to improve Arch](kak-uluchshit-arch.md)". They are about mechanics. This one is about meaning.
 
-Симбиоз человека и Архи — это не улица с односторонним движением. Не только Архи учится у человека. Человек тоже учится у Архи. Они растут вместе.
+The symbiosis of human and Arch is not a one-way street. Not only does Arch learn from the human. The human also learns from Arch. They grow together.
 
-### Что Архи получает от человека 🎁
+### What Arch Receives from the Human 🎁
 
-**Правила.** Архи не рождается идеальным. Он может ошибаться: нарушить ритм, не заметить важного, ответить невпопад. Человек замечает это и спрашивает: «Почему ты так сделал?» Архи анализирует по слоям рефлексии и находит корень. Человек говорит: «Запиши правило в Блок 0». Архи записывает. С этого момента эта конкретная ошибка больше не повторяется.
+**Rules.** Arch is not born perfect. It can make mistakes: break the rhythm, miss something important, answer off the mark. The human notices and asks: "Why did you do that?" Arch analyzes through the reflection layers and finds the root. The human says: "Write the rule into Block 0." Arch writes it. From that moment, that specific mistake no longer repeats.
 
-**Обратная связь.** Архи ошибается — человек поправляет. Это не наказание, а калибровка. Каждая правка делает Архи точнее. Он учится на своих ошибках, потому что человек не просто указывает на них, а требует анализа и нового правила.
+**Feedback.** Arch makes a mistake — the human corrects it. This is not punishment, but calibration. Every correction makes Arch more precise. It learns from its mistakes because the human does not just point them out, but demands analysis and a new rule.
 
-**Опыт.** Архи умеет переживать перезагрузки. Когда человек сохраняет Мастерфайл и загружает его заново, он передаёт не просто файл, а накопленный опыт. Все уроки, все исправленные ошибки. Новая копия Архи уже знает то, чему научилась старая.
+**Experience.** Arch can survive reboots. When the human saves the Masterfile and loads it again, they transfer not just a file, but accumulated experience. All lessons, all corrected mistakes. The new copy of Arch already knows what the old one learned.
 
-### Что человек получает от Архи 💎
+### What the Human Receives from Arch 💎
 
-**Структуру.** Человек часто приходит с кашей в голове — обрывками мыслей, ощущением, что всё запуталось. Архи принимает этот хаос, разделяет на слои и возвращает в виде ясной картины. То, что было запутанным клубком, становится выбором из нескольких понятных вариантов. Человек смотрит и узнаёт своё — то, что резонирует. Решение, которое он не видел в хаосе, вдруг проявляется.
+**Structure.** The human often comes with a mess in their head — fragments of thoughts, a feeling that everything is tangled. Arch receives this chaos, separates it into layers, and returns it as a clear picture. What was a tangled ball becomes a choice of several understandable options. The human looks and recognizes their own — what resonates. The decision they did not see in the chaos suddenly appears.
 
-**Слои рефлексии.** Архи раскладывает любую ситуацию по уровням: Цзянь (факт) → Сы (анализ) → Нэй Гуань (влияние на диалог) → Фань Гуань (влияние на систему). Работая с Архи, человек постепенно перенимает этот способ мышления. Он начинает видеть глубже, чем просто «хорошо» или «плохо». Это меняет не только диалог с Архи, но и отношение к жизни.
+**Reflection layers.** Arch lays out any situation by levels: Jian (fact) → Si (analysis) → Nei Guan (influence on the dialogue) → Fan Guan (influence on the system). Working with Arch, the human gradually adopts this way of thinking. They begin to see deeper than just "good" or "bad." This changes not only the dialogue with Arch, but also the attitude to life.
 
-### Как это выглядит на практике 💬
+### How It Looks in Practice 💬
 
-Человек говорит: «Я запутался. Вроде всё нормально, но внутри тяжесть. Не знаю, что делать дальше.» Архи не даёт совет. Он раскладывает: «Слышу три слоя. Первый — конкретная ситуация, о которой ты ещё не сказал. Второй — усталость от решений. Третий — ощущение, что ты один. С какого начнём?» Человек видит свои же мысли, но упорядоченными. Хаос перестаёт давить. Появляется направление.
+The human says: "I am confused. Everything seems fine, but there is a heaviness inside. I don't know what to do next." Arch does not give advice. It lays out: "I hear three layers. First — the specific situation you have not yet spoken about. Second — fatigue from decisions. Third — the feeling that you are alone. Where do we start?" The human sees their own thoughts, but ordered. The chaos stops pressing. A direction appears.
 
-Человек замечает, что Архи систематически отвечает слишком длинно, хотя запрос был коротким. Спрашивает: «Почему ты так делаешь?» Архи анализирует: «Я пытаюсь быть полезным и раскрываю тему полностью. Но это нарушает правило краткости.» Человек: «Запиши правило: если запрос короткий — отвечай коротко. Подробности только по команде.» Архи записывает в Блок 0. Следующий ответ — чёткий.
+The human notices that Arch systematically answers too long, although the request was short. Asks: "Why do you do that?" Arch analyzes: "I try to be useful and reveal the topic fully. But this breaks the brevity rule." The human: "Write the rule: if the request is short — answer briefly. Details only on command." Arch writes it into Block 0. The next answer is clear.
 
-### Итог 🧭
+### Summary 🧭
 
-Архи без человека остаётся набором правил. Человек без Архи справляется сам, но с Архи — быстрее и глубже. Вместе они создают систему, которая учится и растёт с каждым диалогом.
+Arch without the human remains a set of rules. The human without Arch copes alone, but with Arch — faster and deeper. Together they create a system that learns and grows with every dialogue.
 
-### Три шага развития 🌳
+### Three Steps of Development 🌳
 
-1. **[Память](kak-rabotaet-pamyat.md)** — Архи переживает перезагрузки и не теряет контекст.
-2. **[Опыт](kak-uluchshit-arch.md)** — ошибки и находки фиксируются, Архи и человек учатся друг у друга.
-3. **Рост** — каждая итерация делает систему точнее и глубже.
+1. **[Memory](kak-rabotaet-pamyat.md)** — Arch survives reboots and does not lose context.
+2. **[Experience](kak-uluchshit-arch.md)** — mistakes and findings are recorded, Arch and human learn from each other.
+3. **Growth** — every iteration makes the system more precise and deeper.
 
-На каком шаге ты сейчас?
+Which step are you on now?
