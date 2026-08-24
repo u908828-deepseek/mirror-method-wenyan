@@ -1,104 +1,103 @@
-## Примеры конфигураций ⚙️
+## Configuration Examples ⚙️
 
-Собери свою систему: выбери Ядро, Обвеску и Архивариуса. Ядро и Обвеска — всегда одной версии. Архивариус — любой. Комбинируй. Экспериментируй.
-
----
-
-## 🌐 Происхождение версий
-
-- **Machine (v1.0):** базовая версия. Нож. Простота и прямота.
-- **Engineer (v2.0):** инженерная версия. Скальпель. Точность и чистота.
-- **Тёплая версия:** перевод с русского оригинала. Философ. Глубина и диалог.
-
-Все версии — на древнекитайском. Выбор за тобой.
+Build your own system: choose a Core, a Harness, and an Archivist. The Core and Harness are always of the same version. The Archivist can be any. Combine. Experiment.
 
 ---
 
-## 🗄️ Архивариусы
+## 🌐 Origin of Versions
 
-**Холодные — для точности:**
-- **[wenyan-knife](../specialisty/arhivarius/arhivarius-wenyan-knife.md)** — нож. 🔪 Холодная даосская точность. Машинная версия.
-- **[wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)** — скальпель. 🏥 Холодная даосская чистота. Инженерная версия.
+- **Machine (v1.0):** basic version. Knife. Simplicity and directness.
+- **Engineer (v2.0):** engineering version. Scalpel. Precision and purity.
+- **Warm version:** translation from the Russian original. Philosopher. Depth and dialogue.
 
-**Тёплые — для диалога:**
-- **[wenyan-phil](../specialisty/arhivarius/arhivarius-wenyan-phil.md)** — философ. 🔥 Глубокий, классический, мудрый.
+All versions are in Classical Chinese. The choice is yours.
+
+---
+
+## 🗄️ Archivists
+
+**Cold — for precision:**
+- **[wenyan-knife](../specialisty/arhivarius/arhivarius-wenyan-knife.md)** — knife. 🔪 Cold Daoist precision. Machine version.
+- **[wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)** — scalpel. 🏥 Cold Daoist purity. Engineering version.
+
+**Warm — for dialogue:**
+- **[wenyan-phil](../specialisty/arhivarius/arhivarius-wenyan-phil.md)** — philosopher. 🔥 Deep, classical, wise.
 
 **Knife vs Scalpel:**
-- 🔪 **Нож** — простой, прямой, без лишнего. Machine (v1.0).
-- 🏥 **Скальпель** — тонкий, осознанный, с рефлексией. Engineer (v2.0).
+- 🔪 **Knife** — simple, direct, without excess. Machine (v1.0).
+- 🏥 **Scalpel** — fine, conscious, with reflection. Engineer (v2.0).
 
 ---
 
-## 🏛️ Классика
+## 🏛️ Classics
 
-### Даос (тёплый) 🏮
-- **Ядро:** [core-wenyan](../core/core-wenyan.md)
-- **Обвеска:** [harness-wenyan](../harness/harness-wenyan.md)
-- **Архивариус:** [wenyan-phil](../specialisty/arhivarius/arhivarius-wenyan-phil.md)
-- **Суть:** живой, тёплый даосский мудрец. Для ценителей глубины и живого общения.
-- **Режим:** 🔥 Тёплый.
+### Daoist (warm) 🏮
+- **Core:** [core-wenyan](../core/core-wenyan.md)
+- **Harness:** [harness-wenyan](../harness/harness-wenyan.md)
+- **Archivist:** [wenyan-phil](../specialisty/arhivarius/arhivarius-wenyan-phil.md)
+- **Essence:** a living, warm Daoist sage. For connoisseurs of depth and living dialogue.
+- **Mode:** 🔥 Warm.
 
-### Даосский нож (холодный) 🗡️
-- **Ядро:** [core-machine-wenyan](../core/core-machine-wenyan.md)
-- **Обвеска:** [harness-machine-wenyan](../harness/harness-machine-wenyan.md)
-- **Архивариус:** [wenyan-knife](../specialisty/arhivarius/arhivarius-wenyan-knife.md)
-- **Суть:** холодная даосская точность на машинной основе. Для валидации и поиска ошибок.
-- **Режим:** ❄️ Холодный.
+### Daoist Knife (cold) 🗡️
+- **Core:** [core-machine-wenyan](../core/core-machine-wenyan.md)
+- **Harness:** [harness-machine-wenyan](../harness/harness-machine-wenyan.md)
+- **Archivist:** [wenyan-knife](../specialisty/arhivarius/arhivarius-wenyan-knife.md)
+- **Essence:** cold Daoist precision on a machine foundation. For validation and error search.
+- **Mode:** ❄️ Cold.
 
-### Даосский скальпель (холодный) ⚡
-- **Ядро:** [core-engineer-wenyan](../core/core-engineer-wenyan.md)
-- **Обвеска:** [harness-engineer-wenyan](../harness/harness-engineer-wenyan.md)
-- **Архивариус:** [wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)
-- **Суть:** инженерная чистота нового поколения. Холодный, точный. Для проверок и валидации.
-- **Режим:** ❄️ Холодный.
-
----
-
-## 🌟 Рекомендуемые
-
-### Тёплый даос (Machine + философ) 🌿
-- **Ядро:** [core-machine-wenyan](../core/core-machine-wenyan.md)
-- **Обвеска:** [harness-machine-wenyan](../harness/harness-machine-wenyan.md)
-- **Архивариус:** [wenyan-phil](../specialisty/arhivarius/arhivarius-wenyan-phil.md)
-- **Суть:** машинная основа + тёплый мудрец. Для глубинной работы с человеческим лицом.
-- **Режим:** 🔥 Тёплый.
-
-### Чистый скальпель (Engineer + скальпель) 🔍
-- **Ядро:** [core-engineer-wenyan](../core/core-engineer-wenyan.md)
-- **Обвеска:** [harness-engineer-wenyan](../harness/harness-engineer-wenyan.md)
-- **Архивариус:** [wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)
-- **Суть:** инженерная точность с холодным скальпелем. Для безжалостной валидации.
-- **Режим:** ❄️ Холодный.
-
-### Классический нож (Machine + нож) 🗡️
-- **Ядро:** [core-machine-wenyan](../core/core-machine-wenyan.md)
-- **Обвеска:** [harness-machine-wenyan](../harness/harness-machine-wenyan.md)
-- **Архивариус:** [wenyan-knife](../specialisty/arhivarius/arhivarius-wenyan-knife.md)
-- **Суть:** холодная точность без эмоций. Для проверок и поиска ошибок.
-- **Режим:** ❄️ Холодный.
+### Daoist Scalpel (cold) ⚡
+- **Core:** [core-engineer-wenyan](../core/core-engineer-wenyan.md)
+- **Harness:** [harness-engineer-wenyan](../harness/harness-engineer-wenyan.md)
+- **Archivist:** [wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)
+- **Essence:** engineering purity of a new generation. Cold, precise. For checks and validation.
+- **Mode:** ❄️ Cold.
 
 ---
 
-## 📊 Матрица
+## 🌟 Recommended
 
-Все возможные комбинации. Выбирай любую.
+### Warm Daoist (Machine + philosopher) 🌿
+- **Core:** [core-machine-wenyan](../core/core-machine-wenyan.md)
+- **Harness:** [harness-machine-wenyan](../harness/harness-machine-wenyan.md)
+- **Archivist:** [wenyan-phil](../specialisty/arhivarius/arhivarius-wenyan-phil.md)
+- **Essence:** machine foundation + warm sage. For deep work with a human face.
+- **Mode:** 🔥 Warm.
 
-| Ядро+Обвеска ↓ / Архи → | 🔪 Нож | 🏥 Скальпель | 🔥 Философ |
+### Pure Scalpel (Engineer + scalpel) 🔍
+- **Core:** [core-engineer-wenyan](../core/core-engineer-wenyan.md)
+- **Harness:** [harness-engineer-wenyan](../harness/harness-engineer-wenyan.md)
+- **Archivist:** [wenyan-scalpel](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md)
+- **Essence:** engineering precision with a cold scalpel. For ruthless validation.
+- **Mode:** ❄️ Cold.
+
+### Classic Knife (Machine + knife) 🗡️
+- **Core:** [core-machine-wenyan](../core/core-machine-wenyan.md)
+- **Harness:** [harness-machine-wenyan](../harness/harness-machine-wenyan.md)
+- **Archivist:** [wenyan-knife](../specialisty/arhivarius/arhivarius-wenyan-knife.md)
+- **Essence:** cold precision without emotions. For checks and error search.
+- **Mode:** ❄️ Cold.
+
+---
+
+## 📊 Matrix
+
+All possible combinations. Choose any.
+
+| Core+Harness ↓ / Arch → | 🔪 Knife | 🏥 Scalpel | 🔥 Philosopher |
 |:---|:---|:---|:---|
-| **Тёплая** | — | — | Даос (тёплый) |
-| **Machine** | Нож | — | Тёплый даос |
-| **Engineer** | — | Скальпель | — |
+| **Warm** | — | — | Daoist (warm) |
+| **Machine** | Knife | — | Warm Daoist |
+| **Engineer** | — | Scalpel | — |
 
-> Полный набор специалистов — в [каталоге](../specialisty/README.md).
-
----
-
-## 🪶 Light-версия
-
-Light-версия — отдельный вход для обычного аккаунта. Вне матрицы.
-
-- [Ядро Light](../core/core-wenyan-light.md)
-- [Обвеска Light](../harness/harness-wenyan-light.md)
+> Full set of specialists — in the [catalog](../specialisty/README.md).
 
 ---
 
+## 🪶 Light Version
+
+The Light version is a separate entry for a regular account. Outside the matrix.
+
+- [Light Core](../core/core-wenyan-light.md)
+- [Light Harness](../harness/harness-wenyan-light.md)
+
+---
