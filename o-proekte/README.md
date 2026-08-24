@@ -1,8 +1,8 @@
-## О проекте
+## About the Project 🧭
 
-Коротко о том, как устроен метод Зеркала, кто за ним стоит и какой путь мы прошли.
+Briefly about how the Mirror method works, who stands behind it, and what path we have walked.
 
-- [Команда](komanda.md) — кто участвовал в создании и развитии проекта.
-- [История](istoriya.md) — как всё начиналось и к чему пришло.
-- [Кризисы](krizisy.md) — трудности, которые мы прошли.
-- [Философия](../O-PROEKTE.md) — принципы, на которых строится метод.
+- [Team](komanda.md) — who participated in the creation and development of the project.
+- [History](istoriya.md) — how it all began and what it came to.
+- [Crises](krizisy.md) — difficulties we went through.
+- [Philosophy](../O-PROEKTE.md) — principles on which the method is built.
