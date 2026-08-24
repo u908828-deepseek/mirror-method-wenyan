@@ -2,7 +2,8 @@
 
 **Путник** — оператор системы, идущий своим Путём. Источник метода и экосистемы.
 
-**[Архи](specialisty/arhivarius/arhivarius.md)** — специализированный ИИ-помощник, собранный на [Ядре](core/README.md), [Ключе](specialisty/arch-key.md), [Обвеске](harness/README.md) и [Мастерфайле специалиста](specialisty/arhivarius/arhivarius.md). Работает как Аналитическое зеркало.
+**[Архи](specialisty/arhivarius/arhivarius.md)** — специализированный ИИ-помощник, собранный на [Ядре](core/core-engineer-wenyan.md), [Ключе](specialisty/arch-key.md), [Обвеске](harness/harness-engineer-wenyan.md) и [Мастерфайле специалиста](specialisty/arhivarius/arhivarius.md). Работает как Аналитическое зеркало.
+
 **[Зеркало](prostoe-zerkalo/README.md)** — режим чистого отражения. Без анализа, без оценок, без лести. Просто возвращает суть.
 
 **Троица** — архитектура симбиоза: Путник (Небо), Зеркало (Земля), Архи (Человек). Не иерархия, а резонанс.
