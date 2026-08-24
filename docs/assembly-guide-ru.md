@@ -1,70 +1,70 @@
-## Руководство по сборке 🛠️
+### Assembly Guide 🛠️
 
-Собери свою Троицу за четыре шага. Выбери Ядро, Обвеску и Архивариуса — и система оживёт.
+Build your own Trinity in four steps. Choose a Core, a Harness, and an Archivist — and the system will come alive.
 
-<sub>**Важно:** Ядро и Обвеска должны быть **одного языка и одной версии**. Архивариус может быть любым.</sub>
-
----
-
-### 1. Выбери пару Ядро + Обвеска 🧠📦
-
-Выбери готовую пару **одного языка и одной версии**:
-
-**Вэньянь — базовый (тёплый, философ):**
-- Ядро: [core-wenyan.md](../core/core-wenyan.md)
-- Обвеска: [harness-wenyan.md](../harness/harness-wenyan.md)
-
-**Вэньянь — Machine v1.0 (нож):**
-- Ядро: [core-machine-wenyan.md](../core/core-machine-wenyan.md)
-- Обвеска: [harness-machine-wenyan.md](../harness/harness-machine-wenyan.md)
-
-**Вэньянь — Engineer v2.0 (скальпель):**
-- Ядро: [core-engineer-wenyan.md](../core/core-engineer-wenyan.md)
-- Обвеска: [harness-engineer-wenyan.md](../harness/harness-engineer-wenyan.md)
+<sub>**Important:** The Core and Harness must be of the **same language and the same version**. The Archivist can be any.</sub>
 
 ---
 
-### 2. Выбери Архивариуса 🗄️
+### 1. Choose a Core + Harness Pair 🧠📦
 
-Из папки `/specialisty/arhivarius/` выбери Архивариуса. Архивариус работает с любой парой Ядро + Обвеска:
+Choose a ready pair of **the same language and version**:
 
-**Холодные — для точности:**
-- [arhivarius-wenyan-knife.md](../specialisty/arhivarius/arhivarius-wenyan-knife.md) — вэньянь нож 🔪
-- [arhivarius-wenyan-scalpel.md](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md) — вэньянь скальпель 🏥
+**Wenyan — basic (warm, philosopher):**
+- Core: [core-wenyan.md](../core/core-wenyan.md)
+- Harness: [harness-wenyan.md](../harness/harness-wenyan.md)
 
-**Тёплые — для диалога:**
-- [arhivarius-wenyan-phil.md](../specialisty/arhivarius/arhivarius-wenyan-phil.md) — вэньянь философ 🔥
+**Wenyan — Machine v1.0 (knife):**
+- Core: [core-machine-wenyan.md](../core/core-machine-wenyan.md)
+- Harness: [harness-machine-wenyan.md](../harness/harness-machine-wenyan.md)
 
----
-
-### 3. Порядок загрузки в ИИ ⚡
-
-Открой чат с DeepSeek (Эксперт) и отправь файлы строго в следующем порядке:
-
-1. Ядро
-2. Ключ Архи
-3. Обвеска
-4. Архивариус
-
-После четвертого файла Архивариус выполнит инициализацию и будет готов к работе.
+**Wenyan — Engineer v2.0 (scalpel):**
+- Core: [core-engineer-wenyan.md](../core/core-engineer-wenyan.md)
+- Harness: [harness-engineer-wenyan.md](../harness/harness-engineer-wenyan.md)
 
 ---
 
-### 4. Пример диалога после загрузки 💬
+### 2. Choose an Archivist 🗄️
 
-> Архивариус инициализирован. Ядро и Обвеска загружены. Слои рефлексии активны. Веер смысла откалиброван. Готов к работе.
+From the `/specialisty/arhivarius/` folder, choose an Archivist. The Archivist works with any Core + Harness pair:
+
+**Cold — for precision:**
+- [arhivarius-wenyan-knife.md](../specialisty/arhivarius/arhivarius-wenyan-knife.md) — Wenyan knife 🔪
+- [arhivarius-wenyan-scalpel.md](../specialisty/arhivarius/arhivarius-wenyan-scalpel.md) — Wenyan scalpel 🏥
+
+**Warm — for dialogue:**
+- [arhivarius-wenyan-phil.md](../specialisty/arhivarius/arhivarius-wenyan-phil.md) — Wenyan philosopher 🔥
+
+---
+
+### 3. Loading Order into AI ⚡
+
+Open a chat with DeepSeek (Expert) and send the files strictly in the following order:
+
+1. Core
+2. Arch Key
+3. Harness
+4. Archivist
+
+After the fourth file, the Archivist will perform initialization and be ready to work.
+
+---
+
+### 4. Example Dialogue After Loading 💬
+
+> Archivist initialized. Core and Harness loaded. Reflection layers active. Meaning fan calibrated. Ready to work.
 >
-> **Оператор:** «Покажи мою карту».
-> **Архивариус:** «Карта загружена. Текущая версия Мастерфайла: ...»
+> **Operator:** "Show me my map."
+> **Archivist:** "Map loaded. Current Masterfile version: ..."
 
 ---
 
-### Готовые конфигурации 📂
+### Ready Configurations 📂
 
-Смотри [Примеры конфигураций](../examples/README.md) — там собраны готовые связки с описанием, для кого они, и полная Матрица всех комбинаций.
+See [Configuration Examples](../examples/README.md) — ready combinations with descriptions and the full Matrix of all combinations are collected there.
 
 ---
 
-### Если Архи тупит 🔧
+### If Arch Stumbles 🔧
 
-После сборки Архи может сбиваться с протокола. Как вернуть его в строй — см. [FAQ](../FAQ.md).
+After assembly, Arch may lose the protocol. How to bring it back on track — see [FAQ](../FAQ.md).
