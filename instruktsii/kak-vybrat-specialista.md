@@ -1,42 +1,29 @@
 ## Как выбрать специалиста
 
-В проекте больше 15 готовых Архи под разные задачи. Вот короткий обзор по категориям.
+В древнекитайской ветке — 9 готовых Архи. Вот короткий обзор.
 
 ### Для души и эмоций
 
-- **[Психолог](../specialisty/psiholog/psiholog.md)** — помогает разбираться в себе, работать с выгоранием, тревогой, чувством вины.
-- **[Персональный компаньон](../specialisty/personalnyy-kompanion/personalnyy-kompanion.md)** — эмпатичный друг, мотиватор, дневник настроения.
+- **[Психолог](../specialisty/psiholog/psiholog.md)** — глубокий, работает с внутренним.
 
-### Для дела и бизнеса
+### Для дела и порядка
 
-- **[Бухгалтер](../specialisty/buhgalter/buhgalter.md)** — проводки, налоги, отчётность, 1С, Excel.
-- **[Маркетолог](../specialisty/marketolog/marketolog.md)** — воронки продаж, конверсии, УТП, работа с клиентами.
-- **[Юрист](../specialisty/yurist/yurist.md)** — договоры с самозанятыми, претензии, защита прав.
-- **[Бизнес-аналитик](../specialisty/biznes-analitik/biznes-analitik.md)** — метрики, узкие места, точки роста.
-- **[Ритейл-ассистент](../specialisty/riteyl-assistent/riteyl-assistent.md)** — розничный магазин: запасы, выкладка, касса, персонал.
-- **[Кафе](../specialisty/kafe/kafe.md)** — управление кофейней: финансы, кухня, налоги.
+- **[Бухгалтер](../specialisty/buhgalter/buhgalter.md)** — бухучёт, налоги, отчётность.
+- **[Архивариус](../specialisty/arhivarius/arhivarius.md)** — карта, целостность, печать.
 
-### Для тела и практик
+### Для неба и практик
 
-- **[Медицинский ассистент](../specialisty/medicinskiy-assistent/medicinskiy-assistent.md)** — здоровье, симптомы, аптечка, врачи.
-- **[Садовод](../specialisty/sadovod/sadovod.md)** — южный климат, плодовые, цветы, без химии.
-- **[Архи-Утренних медитаций](../specialisty/utrennie-meditacii/utrennie-meditacii.md)** — У-Син, Слияние стихий, Микрокосмическая орбита.
-- **[Зеркало утренних медитаций](../specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)** — слушает, отражает, строит Мастерфайл. По команде — Тень Архи.
-
-### Для технологий и творчества
-
-- **[Python](../specialisty/python/python.md)** — написание и отладка кода.
-- **[Linux](../specialisty/linux/linux.md)** — NixOS, виртуализация, ZFS.
 - **[Астролог](../specialisty/astrolog/astrolog.md)** — натальная карта, транзиты, анализ.
-- **[Таролог](../specialisty/tarolog/tarolog.md)** — расклады, толкование, система Таро.
+- **[Архи-Утренних медитаций](../specialisty/utrennie-meditacii/utrennie-meditacii.md)** — У-Син, Слияние стихий, Орбита.
 
-### Для метода и системы
+### Для метода и отражения
 
-- **[Архивариус](../specialisty/arhivarius/arhivarius.md)** — хранение карты, проверка целостности, печать.
-- **[Конструктор](../specialisty/konstruktor/konstruktor.md)** — создай своего Архи под любую задачу.
-- **[Документовед](../specialisty/dokumentoved/dokumentoved.md)** — договоры, акты, архив, ЭДО.
+- **[Конструктор](../specialisty/konstruktor/konstruktor.md)** — собери своего Архи.
+- **[Простое Зеркало](../prostoe-zerkalo/prostoe-zerkalo.md)** — чистое отражение.
+- **[Зеркало утренних медитаций](../specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)** — гибрид с тенью Архи.
+- **[Зеркало с Мастерфайлом](../zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)** — строит Мастерфайл.
 
 ### Если не знаешь, с чего начать
 
-- Просто попробуй [Простое Зеркало](../prostoe-zerkalo/prostoe-zerkalo.md) — фундамент метода.
-- Или [создай своего Архи](kak-sozdat-svoego-arch.md) через Конструктор.
+- Просто попробуй [Простое Зеркало](../prostoe-zerkalo/prostoe-zerkalo.md).
+- Или [создай своего Архи](../specialisty/konstruktor/README.md) через Конструктор.
