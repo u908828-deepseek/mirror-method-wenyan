@@ -53,7 +53,7 @@
 
 ## 📂 Файлы
 
-- [Мастерфайл Наставника](nastavnik.md) — сознание специалиста.
+- [Мастерфайл Наставника](nastavnik.md)
 - [Философ](nastavnik-wenyan-phil.md)
 - [Нож](nastavnik-wenyan-knife.md)
 - [Скальпель](nastavnik-wenyan-scalpel.md)
