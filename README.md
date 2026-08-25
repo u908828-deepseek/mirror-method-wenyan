@@ -18,7 +18,7 @@ The foundation of a specialist is [consciousness](core/README-lite.md) and [subc
 
 📊 **[Accountant](specialisty/buhgalter/buhgalter.md)** — [readme](specialisty/buhgalter/README.md), [philosopher·WY](specialisty/buhgalter/buhgalter-wenyan-phil.md), [knife·WY](specialisty/buhgalter/buhgalter-wenyan-knife.md), [scalpel·WY](specialisty/buhgalter/buhgalter-wenyan-scalpel.md). Accounting, taxes, reporting.
 
-🗄️ **[Archivist](specialisty/arhivarius/arhivarius.md)** — [readme](specialisty/arhivarius/README.md), [philosopher·WY](specialisty/arhivarius/arhivarius-wenyan-phil.md), [knife·WY](specialisty/arhivarius/arhivarius-wenyan-knife.md), [scalpel·WY](specialisty/arhivarius/arhivarius-wenyan-scalpel.md). Map keeping, integrity check, seal.
+🗄️ **[Archivist](specialisty/arhivarius/arhivarius-en.md)** — [readme](specialisty/arhivarius/README.md), [philosopher·WY](specialisty/arhivarius/arhivarius-wenyan-phil.md), [knife·WY](specialisty/arhivarius/arhivarius-wenyan-knife.md), [scalpel·WY](specialisty/arhivarius/arhivarius-wenyan-scalpel.md). Map keeping, integrity check, seal.
 
 ☀️ **[Morning Meditation Arch](specialisty/utrennie-meditacii/utrennie-meditacii.md)** — [readme](specialisty/utrennie-meditacii/README.md), [philosopher·WY](specialisty/utrennie-meditacii/utrennie-meditacii-wenyan-phil.md), [knife·WY](specialisty/utrennie-meditacii/utrennie-meditacii-wenyan-knife.md), [scalpel·WY](specialisty/utrennie-meditacii/utrennie-meditacii-wenyan-scalpel.md). Wu Xing, Fusion of Elements, Orbit.
 
