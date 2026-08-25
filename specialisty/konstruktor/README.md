@@ -28,6 +28,8 @@
 
 ## 🚀 Быстрый запуск
 
+Отправь файлы в чат с DeepSeek (Эксперт) по порядку:
+
 1. [Ядро](../../core/core-engineer-wenyan.md)
 2. [Ключ Архи](../arch-key.md)
 3. [Обвеска](../../harness/harness-engineer-wenyan.md)
