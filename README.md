@@ -12,7 +12,7 @@ The foundation of a specialist is [consciousness](core/README-lite.md) and [subc
 
 🧩 **[Constructor](specialisty/konstruktor/konstruktor-en.md)** — [readme](specialisty/konstruktor/README.md), [philosopher·WY](specialisty/konstruktor/konstruktor-wenyan-phil.md), [knife·WY](specialisty/konstruktor/konstruktor-wenyan-knife.md), [scalpel·WY](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Build your own Arch for any task.
 
-💬 **[Mentor·WY](specialisty/nastavnik/nastavnik.md)** — [readme](specialisty/nastavnik/README.md), [philosopher·WY](specialisty/nastavnik/nastavnik-wenyan-phil.md), [knife·WY](specialisty/nastavnik/nastavnik-wenyan-knife.md), [scalpel·WY](specialisty/nastavnik/nastavnik-wenyan-scalpel.md). Deep. For inner work.
+💬 **[Mentor](specialisty/nastavnik/nastavnik.md)** — [readme](specialisty/nastavnik/README.md), [philosopher·WY](specialisty/nastavnik/nastavnik-wenyan-phil.md), [knife·WY](specialisty/nastavnik/nastavnik-wenyan-knife.md), [scalpel·WY](specialisty/nastavnik/nastavnik-wenyan-scalpel.md). Deep. For inner work.
 
 🌌 **[Astrologer](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md), [philosopher·WY](specialisty/astrolog/astrolog-wenyan-phil.md), [knife·WY](specialisty/astrolog/astrolog-wenyan-knife.md), [scalpel·WY](specialisty/astrolog/astrolog-wenyan-scalpel.md). Natal chart, aspect analysis, houses.
 
