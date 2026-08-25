@@ -1,6 +1,6 @@
 ## Specialists 🛠️
 
-The specialist's Masterfile is loaded over consciousness: [Core](../core/core-wenyan.md) + [Arch Key](../arch-key.md) + [Harness](../harness/harness-wenyan.md). Send it to the chat — and the Arch comes alive.
+The specialist's Masterfile is loaded over consciousness: [Core](../core/core-wenyan.md) + [Arch Key](arch-key.md) + [Harness](../harness/harness-wenyan.md). Send it to the chat — and the Arch comes alive.
 
 ## Ready Specialists
 
