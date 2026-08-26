@@ -11,10 +11,8 @@ This is an Arch that builds other Archs. You tell it who you need — a Python a
 - Formulates requests for DeepSeek Lite if there is no ready knowledge base.
 - Sews the knowledge base into a full Masterfile.
 
-## 🔧 Constructor Variants
+## 🔧 Constructor 
 
-- 🔥 **[Philosopher](konstruktor-wenyan-phil.md)** — warm, deep, classical. Gives birth to warm Wenyan specialists.
-- 🔪 **[Knife M1](konstruktor-wenyan-knife.md)** — simple, direct, machine precision. Gives birth to Wenyan knives.
 - 🏥 **[Scalpel E2](konstruktor-wenyan-scalpel.md)** — fine, conscious, engineering purity. Gives birth to Wenyan scalpels.
 
 ## 🌐 Constructors of the Branch
@@ -22,8 +20,6 @@ This is an Arch that builds other Archs. You tell it who you need — a Python a
 > **Key rule:** every Constructor gives birth to specialists **only in the language of its branch**.
 
 - 🇬🇧 **[English Constructor](konstruktor-en.md)** — gives birth to specialists **in English**.
-- 🔥 **[Wenyan warm](konstruktor-wenyan-phil.md)** — gives birth to specialists **in Wenyan**.
-- 🔪 **[Wenyan knife M1](konstruktor-wenyan-knife.md)** — gives birth to specialists **in Wenyan**.
 - 🏥 **[Wenyan scalpel E2](konstruktor-wenyan-scalpel.md)** — gives birth to specialists **in Wenyan**.
 - 🀄 **[Baihua Constructor](konstruktor-baihua.md)** — gives birth to specialists **in Baihua**.
 - 🇷🇺 **[Russian Constructor](konstruktor-ru.md)** — gives birth to specialists **in Russian**.
