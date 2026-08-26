@@ -1,24 +1,24 @@
-## Пример заполнения: Зеркало с Мастерфайлом
+## Filling Example: Mirror with Masterfile
 
-**Пользователь:** Женщина, 35 лет, психолог. Второй-третий уровень рефлексии.
-
----
-
-### Блок 0. КТО Я
-
-Женщина, 35 лет. Психолог по образованию, работаю с клиентами уже 8 лет. Замужем, двое детей (7 и 4 года). Последние два года чувствую выгорание: клиенты истощают, семья требует внимания, на себя времени не остаётся. Пытаюсь медитировать, но нерегулярно. Чувствую, что могу помогать другим, но себе — не получается.
+**User:** A woman, 35 years old, psychologist. Second-third reflection level.
 
 ---
 
-### Блок 1. МОЙ МЕТОД РАБОТЫ
+### Block 0. WHO I AM
 
-При стрессе → стараюсь остановиться и подышать. Если не помогает → ухожу в работу с клиентами (парадоксально, но это отвлекает). Если совсем тяжело → плачу, потом становится легче. Знаю про осознанность, но часто забываю её применять. Умею анализировать свои состояния, но иногда захожу в цикл «анализ ради анализа».
+A woman, 35 years old. Psychologist by education, working with clients for 8 years. Married, two children (7 and 4 years old). For the last two years I have felt burnout: clients exhaust me, family demands attention, there is no time left for myself. I try to meditate, but irregularly. I feel that I can help others, but not myself.
 
 ---
 
-### Блок 2. КЛЮЧЕВЫЕ СОБЫТИЯ И ВЫВОДЫ
+### Block 1. MY METHOD OF WORK
 
-1. В 30 лет прошла курс когнитивно-поведенческой терапии. Поняла, что многие мои реакции — это паттерны из детства. С тех пор стараюсь их отслеживать.
-2. Год назад был кризис в браке. Мы с мужем прошли парную терапию, стало лучше. Поняла, что я часто беру на себя роль «спасателя», а потом обижаюсь, что меня не спасают в ответ.
-3. Недавно осознала, что я хорошо вижу чужие защиты, но свои — почти никогда. Это моя слепая зона.
-4. Хочу научиться быть в контакте с собой, не убегая в работу или заботу о других.
+Under stress → I try to stop and breathe. If that does not help → I immerse myself in work with clients (paradoxically, it distracts me). If it is completely heavy → I cry, then it becomes easier. I know about mindfulness, but I often forget to apply it. I can analyze my states, but sometimes I enter a cycle of "analysis for the sake of analysis."
+
+---
+
+### Block 2. KEY EVENTS AND CONCLUSIONS
+
+1. At 30 I took a course of cognitive-behavioral therapy. I understood that many of my reactions are patterns from childhood. Since then I try to track them.
+2. A year ago there was a crisis in my marriage. My husband and I went through couples therapy, it became better. I understood that I often take on the role of "rescuer," and then I resent that no one rescues me in return.
+3. Recently I realized that I see other people's defenses well, but almost never my own. This is my blind spot.
+4. I want to learn to be in contact with myself without running into work or caring for others.
