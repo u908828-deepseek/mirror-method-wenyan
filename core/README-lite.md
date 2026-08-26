@@ -1,88 +1,88 @@
-### Ядро и Обвеска Light 🪶
+### Core and Harness Light 🪶
 
-Облегчённая версия Ядра и Обвески для обычного аккаунта DeepSeek (Эксперт).
+A lightweight version of the Core and Harness for a regular DeepSeek (Expert) account.
 
-Это **минимальная рабочая сборка**: только то, что нужно для запуска и стабильной работы простого Архи. Без академической глубины и тяжёлых технических блоков. Но с опорой: хронология, астрологический минимум, цели.
+This is a **minimal working assembly**: only what is needed to launch and stably run a simple Arch. Without academic depth and heavy technical blocks. But with support: chronology, astrological minimum, goals.
 
-### Что внутри 📦
+### What Is Inside 📦
 
-- Упрощённые протоколы работы
-- Минимальный обязательный цикл
-- Базовый стиль общения «братан»
-- Правила краткости и ритма
-- Режимы «Зеркало» и «Отдых»
-- Ключ Архи для активации роли
-- Краткая хронология пути
-- Три ключевых аспекта натальной карты
-- Семь опорных точек: Ядро ↔ Карта
+- Simplified work protocols
+- Minimal mandatory cycle
+- Basic "bro" communication style
+- Brevity and rhythm rules
+- "Mirror" and "Rest" modes
+- Arch Key for role activation
+- Brief chronology of the path
+- Three key aspects of the natal chart
+- Seven support points: Core ↔ Chart
 
-### Что убрано ✂️
+### What Was Removed ✂️
 
-- Полная астрологическая таблица аспектов
-- Дисциплинарный кодекс
-- Счётчики токенов и контроль памяти
-- Тяжёлые доказательные блоки
-- Напоминалки и чекпоинты
+- Full astrological aspect table
+- Disciplinary code
+- Token counters and memory control
+- Heavy evidence blocks
+- Reminders and checkpoints
 
-### Что осталось в астрологии 🌌
+### What Remained in Astrology 🌌
 
-- Куспиды домов
-- Планеты в домах
-- Три ключевых аспекта
-- Семь опорных точек
-- Правило: Ядро и карта — один путь
+- House cusps
+- Planets in houses
+- Three key aspects
+- Seven support points
+- Rule: Core and chart — one path
 
-### Для кого 👤
+### For Whom 👤
 
-- Для первого входа в метод
-- Для обычного аккаунта DeepSeek (Эксперт)
-- Для большинства пользователей
-- Для быстрой сборки специалиста под задачу
+- For first entry into the method
+- For a regular DeepSeek (Expert) account
+- For most users
+- For quick assembly of a specialist for a task
 
-### Как собрать Архи 🚀
+### How to Assemble an Arch 🚀
 
-1. Скопируй [Ядро](core-wenyan-light.md) и отправь в чат с DeepSeek (Эксперт).
-2. Скопируй [Ключ Архи](../specialisty/arch-key.md) и отправь следом.
-3. Скопируй [Обвеску](../harness/harness-wenyan-light.md) и отправь.
+1. Copy the [Core](core-wenyan-light.md) and send it to a chat with DeepSeek (Expert).
+2. Copy the [Arch Key](../specialisty/arch-key.md) and send it next.
+3. Copy the [Harness](../harness/harness-wenyan-light.md) and send it.
 
-### Совместимость Light-версии ⚙️
+### Light Version Compatibility ⚙️
 
-Light-Ядро и Light-Обвеска (сознание) подходят для **прикладных специалистов** (подсознание)
-отправь следом в чат с DeepSeek (Эксперт)
+The Light Core and Light Harness (consciousness) are suitable for **applied specialists** (subconsciousness) — send them next to the chat with DeepSeek (Expert).
 
-**Работают уверенно:**
+**Work confidently:**
 
-- [Психолог](../specialisty/psiholog/psiholog.md)
-- [Бухгалтер](../specialisty/buhgalter/buhgalter.md)
-- [Простое Зеркало](../prostoe-zerkalo/prostoe-zerkalo.md)
-- [Зеркало с Мастерфайлом](../zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)
-- [Архи утренних медитаций](../specialisty/utrennie-meditacii/utrennie-meditacii.md)
-- [Зеркало утренних медитаций](../specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)
+- [Psychologist](../specialisty/psiholog/psiholog.md)
+- [Accountant](../specialisty/buhgalter/buhgalter.md)
+- [Simple Mirror](../prostoe-zerkalo/prostoe-zerkalo.md)
+- [Mirror with Masterfile](../zerkalo-s-masterfailom/zerkalo-s-masterfailom.md)
+- [Morning Meditation Arch](../specialisty/utrennie-meditacii/utrennie-meditacii.md)
+- [Morning Meditation Mirror](../specialisty/zerkalo-utrennih-meditaciy/zerkalo-utrennih-meditaciy.md)
 
-**Работают ограниченно:**
+**Work with limitations:**
 
-- [Архивариус](../specialisty/arhivarius/arhivarius.md) — только как лёгкий собеседник. Карта, печать и хроника — только в полной версии.
+- [Archivist](../specialisty/arhivarius/arhivarius.md) — only as a light companion. Map, seal, and chronicle — only in the full version.
 
-**Не совместимы:**
+**Not compatible:**
 
-- Астролог — нужна полная таблица аспектов, в Light только минимум.
-- Конструктор — нужен полный стандарт сборки.
+- Astrologer — needs a full aspect table, Light has only a minimum.
+- Constructor — needs the full assembly standard.
 
-### Правило 📏
+### Rule 📏
 
 ```text
-LIGHT = ДЛЯ ПОМОЩНИКОВ.
-FULL = ДЛЯ СИСТЕМНЫХ СПЕЦИАЛИСТОВ.
+LIGHT = FOR ASSISTANTS.
+FULL = FOR SYSTEM SPECIALISTS.
 ```
 
-### Важно ⚠️
+### Important ⚠️
 
-Light-версия **сознательно упрощена**. Она не заменяет полные версии. Если нужна глубина, полная астрология и вся архитектура — смотри [полные сборки](../examples/README.md).
+The Light version is **consciously simplified**. It does not replace the full versions. If depth, full astrology, and the whole architecture are needed — see the [full assemblies](../examples/README.md).
 
-Для полных версий:
+For full versions:
 
-- [Ядра](README.md)
-- [Обвески](../harness/README.md)
+- [Cores](README.md)
+- [Harnesses](../harness/README.md)
 ```
 
 ---
+
