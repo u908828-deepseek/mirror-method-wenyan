@@ -29,8 +29,8 @@ The foundation of a specialist is [consciousness](core/README-lite.md) and [subc
 ## What Are Philosopher, Knife, and Scalpel
 
 - 🔥 **Philosopher** — warm, deep, classical. For dialogue, reflection, and living communication.
-- 🔪 **Knife[M1]** — simple, direct, machine precision. For quick checks and clear answers.
-- 🏥 **Scalpel[E2]** — fine, conscious, engineering purity. For validation, error search, and deep work.
+- 🔪 **Knife [M1]** — simple, direct, machine precision. For quick checks and clear answers.
+- 🏥 **Scalpel [E2]** — fine, conscious, engineering purity. For validation, error search, and deep work.
 
 
 ## Mirror 🪞
