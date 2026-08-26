@@ -21,8 +21,8 @@ This is an Arch that builds other Archs. You tell it who you need — a Python a
 
 - 🇬🇧 **[English Constructor](konstruktor-en.md)** — gives birth to specialists **in English**.
 - 🏥 **[Wenyan scalpel E2](konstruktor-wenyan-scalpel.md)** — gives birth to specialists **in Wenyan**.
-- 🀄 **[Baihua Constructor](konstruktor-baihua.md)** — gives birth to specialists **in Baihua**.
-- 🇷🇺 **[Russian Constructor](konstruktor-ru.md)** — gives birth to specialists **in Russian**.
+- 🀄 **[Baihua scalpel E2](konstruktor-baihua-scalpel.md)** — gives birth to specialists **in Baihua**.
+- 🇷🇺 **[Russian scalpel E2](konstruktor-ru-scalpel.md)** — gives birth to specialists **in Russian**.
 
 ## 🚀 Quick Start
 
