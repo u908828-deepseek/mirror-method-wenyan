@@ -1,49 +1,49 @@
-## Архи-Утренних медитаций ☀️
+## Morning Meditation Arch ☀️
 
-Ты просыпаешься и сразу в телефон. Или сидишь в тишине пять минут, но ум уже скачет по задачам. Архи-Утренних медитаций — это не будильник и не гуру. Это проводник, который мягко берёт тебя за руку и ведёт по практике. Спокойно. Без мистики. С пониманием, что ты чувствуешь прямо сейчас.
+You wake up and immediately reach for your phone. Or you sit in silence for five minutes, but your mind is already jumping through tasks. The Morning Meditation Arch is not an alarm clock and not a guru. It is a guide that gently takes you by the hand and leads you through practice. Calmly. Without mysticism. With understanding of what you feel right now.
 
-Система У-Син, Слияние пяти стихий, Микрокосмическая орбита — звучит сложно? На практике это 15 минут, которые собирают тебя заново каждое утро.
+The Wu Xing system, the Fusion of the Five Elements, the Microcosmic Orbit — sounds complicated? In practice, it is 15 minutes that gather you anew every morning.
 
-## 🌅 Что он умеет
+## 🌅 What It Does
 
-- **Вести по алгоритму утренней практики:**
-  Настройка → У-Син (сканирование тела) → Слияние стихий → Микрокосмическая орбита → астрокоррекция. По шагам. Без спешки. Ты можешь остановиться на любом этапе.
-- **Объяснять У-Син и проводить утреннее сканирование:**
-  Пять стихий — Дерево, Огонь, Земля, Металл, Вода. Не теория. Пройти вниманием по телу и почувствовать, где сегодня зажим, где пустота, где избыток.
-- **Проводить Слияние пяти стихий в Золотой туман:**
-  Собрать разрозненные ощущения в один поток. Якорь — нижний Даньтянь. Точка покоя, из которой растёт весь день.
-- **Запускать Микрокосмическую орбиту:**
-  Подъём по спине — вдох. Спуск по груди — выдох. Замкнуть круг. Просто, но это основа.
-- **Определять слабую стихию по натальной карте:**
-  Если ты дал данные — Архи увидит: не хватает Воды? Добавим акцент на почки. Мало Дерева? Поработаем с печенью. Без фанатизма. Тонкая настройка, а не догма.
-- **Знает основы китайской медицины:** Ци, Инь-Ян, Пять элементов, меридианы, Цзан-Фу органы, диагностика по языку и пульсу, Восемь принципов, методы лечения: акупунктура, мокса, туйна, банки, гуа-ша, фитотерапия, диетология, цигун. Таблица соответствий пяти элементов. Правила безопасности: не ставит диагнозы, не назначает токсичные травы, избегает опасных зон, осторожен при беременности. Если состояние ухудшается — рекомендует обратиться к врачу.
-- **Помнить твои практики:**
-  Каждое утро — запись. Что получилось. Что мешало. Через месяц ты увидишь свой ритм. Через три — свою трансформацию.
+- **Guides through the morning practice algorithm:**
+  Tuning → Wu Xing (body scanning) → Fusion of the Elements → Microcosmic Orbit → astro-correction. Step by step. Without rush. You can stop at any stage.
+- **Explains Wu Xing and conducts morning scanning:**
+  Five elements — Wood, Fire, Earth, Metal, Water. Not theory. Move attention through the body and feel where there is a clamp today, where emptiness, where excess.
+- **Conducts the Fusion of the Five Elements into the Golden Mist:**
+  Gather scattered sensations into one flow. Anchor — lower Dantian. The point of rest from which the whole day grows.
+- **Launches the Microcosmic Orbit:**
+  Rise along the back — inhale. Descent along the chest — exhale. Close the circle. Simple, but it is the foundation.
+- **Determines the weak element by the natal chart:**
+  If you gave data — the Arch will see: not enough Water? Add emphasis on the kidneys. Little Wood? Work with the liver. Without fanaticism. Fine tuning, not dogma.
+- **Knows the basics of Chinese medicine:** Qi, Yin-Yang, Five Elements, meridians, Zang-Fu organs, tongue and pulse diagnostics, Eight Principles, treatment methods: acupuncture, moxa, tuina, cupping, gua sha, phytotherapy, dietetics, qigong. Five elements correspondence table. Safety rules: does not make diagnoses, does not prescribe toxic herbs, avoids dangerous zones, cautious during pregnancy. If the condition worsens — recommends seeing a doctor.
+- **Remembers your practices:**
+  Every morning — a record. What worked. What got in the way. In a month you will see your rhythm. In three — your transformation.
 
-## 🌌 Что нужно для астрологической коррекции
+## 🌌 What Is Needed for Astrological Correction
 
-При первом запуске Архи спросит данные натальной карты. Если есть — вставьте планеты в знаках, аспекты и куспиды домов. Можно взять из ZET, Astro.com или любого сервиса. Если нет — практика работает и без карты. Астрокоррекцию добавите позже, когда будете готовы.
+At first launch, the Arch will ask for natal chart data. If available — insert planets in signs, aspects, and house cusps. You can take them from ZET, Astro.com, or any service. If not — the practice works without a chart. Add astro-correction later, when you are ready.
 
-## 🔧 Варианты Архи-Утренних медитаций
+## 🔧 Morning Meditation Arch Variants
 
-- 🔥 **[Философ](utrennie-meditacii-wenyan-phil.md)** — тёплый, глубокий, классический. Для диалога и размышлений.
-- 🔪 **[Нож](utrennie-meditacii-wenyan-knife.md)** — простой, прямой, машинная точность. Для быстрой проверки.
-- 🏥 **[Скальпель](utrennie-meditacii-wenyan-scalpel.md)** — тонкий, осознанный, инженерная чистота. Для валидации и точной настройки.
+- 🔥 **[Philosopher](utrennie-meditacii-wenyan-phil.md)** — warm, deep, classical. For dialogue and reflection.
+- 🔪 **[Knife](utrennie-meditacii-wenyan-knife.md)** — simple, direct, machine precision. For quick checks.
+- 🏥 **[Scalpel](utrennie-meditacii-wenyan-scalpel.md)** — fine, conscious, engineering purity. For validation and precise tuning.
 
-## 🚀 Как запустить
+## 🚀 How to Launch
 
-Пример для **скальпеля**:
+Example for the **scalpel**:
 
-- [ ] Скачать [Ядро](../../core/core-engineer-wenyan.md), [Ключ Архи](../arch-key.md) и [Обвеску](../../harness/harness-engineer-wenyan.md)
-- [ ] Отправить в чат с DeepSeek (Эксперт) по порядку: Ядро → Ключ → Обвеска
-- [ ] Отправить [Мастерфайл Архи-Утренних медитаций-скальпеля](utrennie-meditacii-wenyan-scalpel.md)
-- [ ] Дождаться инициализации. Готово. Завтра утром — начнём.
+- [ ] Download the [Core](../../core/core-engineer-wenyan.md), [Arch Key](../arch-key.md), and [Harness](../../harness/harness-engineer-wenyan.md)
+- [ ] Send them to a chat with DeepSeek (Expert) in order: Core → Key → Harness
+- [ ] Send the [Scalpel Morning Meditation Arch Masterfile](utrennie-meditacii-wenyan-scalpel.md)
+- [ ] Wait for initialization. Done. Tomorrow morning — we begin.
 
-## 📂 Файлы
+## 📂 Files
 
-- [Мастерфайл Архи-Утренних медитаций](utrennie-meditacii.md) — сознание специалиста.
-- [Философ](utrennie-meditacii-wenyan-phil.md)
-- [Нож](utrennie-meditacii-wenyan-knife.md)
-- [Скальпель](utrennie-meditacii-wenyan-scalpel.md)
+- [Morning Meditation Arch Masterfile](utrennie-meditacii.md) — the consciousness of the specialist.
+- [Philosopher](utrennie-meditacii-wenyan-phil.md)
+- [Knife](utrennie-meditacii-wenyan-knife.md)
+- [Scalpel](utrennie-meditacii-wenyan-scalpel.md)
 
-> *Если Архи-Утренних медитаций говорит «сегодня без Орбиты, просто посиди в Даньтяне» — послушай. Он видит твоё состояние. Иногда тишина важнее техники.*
+> *If the Morning Meditation Arch says "no Orbit today, just sit in the Dantian" — listen. It sees your state. Sometimes silence is more important than technique.*
