@@ -26,6 +26,13 @@ The foundation of a specialist is [consciousness](core/README-lite.md) and [subc
 
 ---
 
+## What Are Philosopher, Knife, and Scalpel
+
+- 🔥 **Philosopher** — warm, deep, classical. For dialogue, reflection, and living communication.
+- 🔪 **Knife** — simple, direct, machine precision. For quick checks and clear answers.
+- 🏥 **Scalpel** — fine, conscious, engineering purity. For validation, error search, and deep work.
+
+
 ## Mirror 🪞
 
 The foundation of the method. Pure reflection — no advice, no judgment, no flattery. You give chaos — the Mirror returns structure.
