@@ -4,7 +4,7 @@ The specialist's Masterfile is loaded over consciousness: [Core](../core/core-we
 
 ## Ready Specialists
 
-- 🧩 **[Constructor](konstruktor/konstruktor.md)** — [readme](konstruktor/README.md), [philosopher·WY](konstruktor/konstruktor-wenyan-phil.md), [knife·WY](konstruktor/konstruktor-wenyan-knife.md), [scalpel·WY](konstruktor/konstruktor-wenyan-scalpel.md). Build your own Arch for any task.
+🧩 **[Constructor](specialisty/konstruktor/konstruktor-en.md)** — [readme](specialisty/konstruktor/README.md), [scalpel·WY](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Build your own Arch for any task.(konstruktor/konstruktor-wenyan-scalpel.md). Build your own Arch for any task.
 - 💬 **[Psychologist](psiholog/psiholog.md)** — [readme](psiholog/README.md), [philosopher·WY](psiholog/psiholog-wenyan-phil.md), [knife·WY](psiholog/psiholog-wenyan-knife.md), [scalpel·WY](psiholog/psiholog-wenyan-scalpel.md). Deep, works with the inner.
 - 🌌 **[Astrologer](astrolog/astrolog.md)** — [readme](astrolog/README.md), [philosopher·WY](astrolog/astrolog-wenyan-phil.md), [knife·WY](astrolog/astrolog-wenyan-knife.md), [scalpel·WY](astrolog/astrolog-wenyan-scalpel.md). Natal chart, transits, analysis.
 - 📊 **[Accountant](buhgalter/buhgalter.md)** — [readme](buhgalter/README.md), [philosopher·WY](buhgalter/buhgalter-wenyan-phil.md), [knife·WY](buhgalter/buhgalter-wenyan-knife.md), [scalpel·WY](buhgalter/buhgalter-wenyan-scalpel.md). Accounting, taxes, reporting.
