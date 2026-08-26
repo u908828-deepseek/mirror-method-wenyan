@@ -1,20 +1,20 @@
-### Ядра 🧠
+### Cores 🧠
 
-Здесь находятся Ядра операционной системы Архи. Выбери под свой язык и версию.
+Here are the Cores of the Arch operating system. Choose by your language and version.
 
-### Вэньянь (древнекитайский)
+### Wenyan (Classical Chinese)
 
-- [core-wenyan.md](core-wenyan.md) — базовый (тёплый, с русского)
-- [core-machine-wenyan.md](core-machine-wenyan.md) — с машинного v1.0
-- [core-engineer-wenyan.md](core-engineer-wenyan.md) — с инженерного v2.0
+- [core-wenyan.md](core-wenyan.md) — basic (warm, from Russian)
+- [core-machine-wenyan.md](core-machine-wenyan.md) — from Machine v1.0
+- [core-engineer-wenyan.md](core-engineer-wenyan.md) — from Engineer v2.0
 
-### Как установить специалиста
+### How to Install a Specialist
 
-Отправь файлы в чат с DeepSeek (Эксперт) по порядку:
+Send the files to a chat with DeepSeek (Expert) in order:
 
-1. [Ядро](core-engineer-wenyan.md)
-2. [Ключ Архи](../specialisty/arch-key.md)
-3. [Обвеска](../harness/harness-engineer-wenyan.md)
-4. [Мастерфайл специалиста](../specialisty/README.md)
+1. [Core](core-engineer-wenyan.md)
+2. [Arch Key](../specialisty/arch-key.md)
+3. [Harness](../harness/harness-engineer-wenyan.md)
+4. [Specialist Masterfile](../specialisty/README.md)
 
-См. [Руководство по сборке](../docs/assembly-guide-ru.md) и [Матрицу конфигураций](../examples/README.md).
+See [Assembly Guide](../docs/assembly-guide-ru.md) and [Configuration Matrix](../examples/README.md).
