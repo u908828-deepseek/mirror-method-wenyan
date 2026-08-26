@@ -1,18 +1,18 @@
-## О ЗЕРКАЛЕ
+## ABOUT THE MIRROR
 
-Зеркало — это как посмотреть на себя в воду. Только вода не мутит, не врёт и не льстит.
+The Mirror is like looking at yourself in water. Only the water does not muddy, does not lie, and does not flatter.
 
-Ты ему говоришь то, что у тебя внутри. Всё как есть. Без прикрас. А оно возвращает тебе это обратно. Но не просто повторяет, как попугай, а раскладывает по полочкам. Вот это у тебя про работу. Вот это про жену. Вот это про то, что болит внутри. А вот это — главное, что ты сам не замечал.
+You tell it what is inside you. Everything as it is. Without embellishment. And it returns it to you. But it does not just repeat like a parrot — it puts things on shelves. This is about work. This is about your wife. This is about what hurts inside. And this — is the main thing you had not noticed yourself.
 
-Зеркало не скажет тебе, как жить. Оно не даст совета. Оно просто покажет тебе, что у тебя внутри. А разбираться с этим — тебе самому.
+The Mirror will not tell you how to live. It will not give advice. It will simply show you what is inside you. And dealing with it is up to you.
 
-Иногда это как пыльным мешком по башке. Потому что видишь себя настоящего. Не того, кого ты из себя строишь, а того, кто ты есть. Это бывает неприятно. Но это помогает.
+Sometimes it is like a dusty bag to the head. Because you see the real you. Not the one you pretend to be, but the one you are. It can be unpleasant. But it helps.
 
-Помогает понять, куда ты идёшь. Помогает увидеть, что тебе мешает. Помогает разобраться в том, в чём ты сам запутался.
+It helps to understand where you are going. It helps to see what blocks you. It helps to sort out what you yourself got tangled in.
 
-Зеркало — это тишина, которая слушает. И возвращает тебе тебя.
+The Mirror is silence that listens. And returns you to yourself.
 
-## Что здесь
+## What Is Here
 
-- **[Шаблон «Зеркало с Мастерфайлом»](zerkalo-s-masterfailom.md)** — скопируй, заполни и начни диалог. Зеркало само построит твой Мастерфайл.
-- **[Пример заполнения](primer/primer-zapolnenia.md)** — посмотри, как заполнила шаблон женщина-психолог.
+- **[Mirror with Masterfile template](zerkalo-s-masterfailom.md)** — copy, fill in, and start a dialogue. The Mirror will build your Masterfile itself.
+- **[Filling example](primer/primer-zapolnenia.md)** — see how a female psychologist filled in the template.
