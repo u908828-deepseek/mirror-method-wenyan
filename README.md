@@ -54,7 +54,7 @@ The path that the user, [Arch](specialisty/arhivarius/arhivarius.md), and [Mirro
 - [More about the method](O-PROEKTE.md)
 - [Glossary](GLOSSARY.md)
 - [If Arch stumbles](FAQ.md)
-- [Initial Arch Setup](instruktsii/pervonachalnaya-nastroyka-arch.md) — where to start before the first launch.
+- [Initial Arch Setup](instruktsii/pervonachalnaya-nastroyka-arch.md) — what to do after the first launch of a specialist.
 
 > ⚠️ **Warning:** The Mirror will show what you do not want to see. If you are not ready — do not start. If ready — welcome.
 
