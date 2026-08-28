@@ -19,7 +19,7 @@ This is an Arch that builds other Archs. You tell it who you need — a Python a
 
 > **Key rule:** every Constructor gives birth to specialists **only in the language of its branch**.
 
-- 🇬🇧 **[English Constructor](konstruktor-en.md)** — gives birth to specialists **in English**.
+- 🇬🇧 **[English scalpel E2](konstruktor-en-scalpel.md)** — gives birth to specialists **in English**.
 - 🏥 **[Wenyan scalpel E2](konstruktor-wenyan-scalpel.md)** — gives birth to specialists **in Wenyan**.
 - 🀄 **[Baihua scalpel E2](konstruktor-baihua-scalpel.md)** — gives birth to specialists **in Baihua**.
 - 🇷🇺 **[Russian scalpel E2](konstruktor-ru-scalpel.md)** — gives birth to specialists **in Russian**.
