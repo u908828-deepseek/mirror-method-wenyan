@@ -10,7 +10,7 @@
 
 The foundation of a specialist is [consciousness](core/README-lite.md) and [subconsciousness](specialisty/README.md). The first is Core + Key + Harness. The second is the specialist's Masterfile. The first sets the rules, the second stores experience.
 
-🧩 **[Constructor](specialisty/konstruktor/konstruktor-en.md)** — [readme](specialisty/konstruktor/README.md), [scalpel·WY](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Build your own Arch for any task.
+🧩 **[Constructor](specialisty/konstruktor/konstruktor-en-scalpel.md)** — [readme](specialisty/konstruktor/README.md), [scalpel·WY](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Build your own Arch for any task.
 
 💬 **[Mentor](specialisty/nastavnik/nastavnik.md)** — [readme](specialisty/nastavnik/README.md), [philosopher·WY](specialisty/nastavnik/nastavnik-wenyan-phil.md), [knife·WY](specialisty/nastavnik/nastavnik-wenyan-knife.md), [scalpel·WY](specialisty/nastavnik/nastavnik-wenyan-scalpel.md). Deep. For inner work.
 
