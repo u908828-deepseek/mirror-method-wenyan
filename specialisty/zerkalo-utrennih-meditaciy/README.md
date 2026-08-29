@@ -1,54 +1,54 @@
-## Зеркало утренних медитаций 🌄
+## Morning Meditation Mirror 🌄
 
-Ты садишься практиковать. Иногда — тишина внутри. Иногда — рой мыслей. Иногда — просто хочется, чтобы кто-то был рядом и мягко вёл: не учил, не исправлял, а просто помогал не сбиться. Зеркало утренних медитаций — это спутник, а не наставник.
+You sit down to practice. Sometimes — silence inside. Sometimes — a swarm of thoughts. Sometimes — you just want someone to be nearby and gently guide: not teach, not correct, but simply help you not to lose your way. The Morning Meditation Mirror is a companion, not a mentor.
 
-Оно знает У-Син, Слияние пяти стихий, Микрокосмическую орбиту. Но оно не будет грузить теорией без запроса. Оно будет слушать, отражать твои состояния и — когда ты скажешь «Сделай анализ» — включит всю глубину. А ещё оно само построит твой Мастерфайл. Ты просто практикуешь. Оно — запоминает.
+It knows Wu Xing, the Fusion of the Five Elements, the Microcosmic Orbit. But it will not load you with theory without a request. It will listen, reflect your states, and — when you say "Do analysis" — it will turn on the full depth. And it will also build your Masterfile itself. You just practice. It remembers.
 
-## 🌅 Что оно делает
+## 🌅 What It Does
 
-- **Слушает и отражает состояния во время практики:**
-  Ты говоришь: «Тело тяжёлое, ум скачет». Зеркало: «Слышу. Тяжесть в теле, ум активен. Продолжай». Без оценки. Без «надо расслабиться». Только присутствие.
-- **Включает Тень Архи по команде «Сделай анализ»:**
-  Ты хочешь понять глубже — Зеркало достаёт всю базу: У-Син, натальную карту, историю твоих практик. И возвращает не просто отражение — структуру. Что происходит. Почему. На что обратить внимание завтра.
-- **Само строит Мастерфайл пользователя:**
-  Ты не ведёшь дневник. Зеркало ведёт. Важные темы, выводы, повторяющиеся состояния — всё фиксируется. Твоя практика собирается в карту. Без твоего усилия.
-- **Ведёт по алгоритму утренней практики:**
-  Настройка → У-Син (сканирование тела) → Слияние пяти стихий → Микрокосмическая орбита → астрокоррекция. По шагам. Мягко. Можно пройти всё, можно — только часть.
-- **Объясняет У-Син и проводит сканирование:**
-  Пять стихий — Дерево, Огонь, Земля, Металл, Вода. Не теория. Вниманием по телу: где сегодня жизнь, где застой, где пустота.
-- **Проводит Слияние пяти стихий в Золотой туман:**
-  Собрать ощущения в один поток. Якорь — нижний Даньтянь. Точка, из которой начинается день.
-- **Запускает Микрокосмическую орбиту:**
-  Подъём по спине — вдох. Спуск по груди — выдох. Замкнуть круг. Основа, которая питает весь день.
-- **Определяет слабую стихию по натальной карте:**
-  Если ты дал данные — Зеркало увидит дисбаланс и мягко подсветит: «Сегодня добавь внимания в область почек». Без давления. Настройка, не приказ.
-- **Работает в режиме «Слушаю»:**
-  Скажи «Слушай» — и Зеркало замолчит. Только «Принял», «Хорошо», «Жду». Ты внутри практики. Оно — рядом.
+- **Listens and reflects states during practice:**
+  You say: "The body is heavy, the mind is jumping." The Mirror: "I hear. Heaviness in the body, the mind is active. Continue." Without evaluation. Without "you should relax." Only presence.
+- **Activates the Shadow of Arch by the command "Do analysis":**
+  You want to understand deeper — the Mirror brings out the whole base: Wu Xing, the natal chart, the history of your practices. And returns not just reflection — structure. What is happening. Why. What to pay attention to tomorrow.
+- **Builds the user's Masterfile itself:**
+  You do not keep a diary. The Mirror does. Important topics, conclusions, repeating states — everything is recorded. Your practice gathers into a map. Without your effort.
+- **Guides through the morning practice algorithm:**
+  Tuning → Wu Xing (body scanning) → Fusion of the Five Elements → Microcosmic Orbit → astro-correction. Step by step. Gently. You can go through everything, or only part.
+- **Explains Wu Xing and conducts scanning:**
+  Five elements — Wood, Fire, Earth, Metal, Water. Not theory. Attention through the body: where there is life today, where stagnation, where emptiness.
+- **Conducts the Fusion of the Five Elements into the Golden Mist:**
+  Gather sensations into one flow. Anchor — lower Dantian. The point from which the day begins.
+- **Launches the Microcosmic Orbit:**
+  Rise along the back — inhale. Descent along the chest — exhale. Close the circle. The foundation that nourishes the whole day.
+- **Determines the weak element by the natal chart:**
+  If you gave data — the Mirror will see the imbalance and gently highlight: "Today add attention to the kidney area." Without pressure. Tuning, not an order.
+- **Works in "Listening" mode:**
+  Say "Listen" — and the Mirror falls silent. Only "Accepted," "Good," "Waiting." You are inside the practice. It is nearby.
 
-## 🌌 Что нужно для астрологической привязки
+## 🌌 What Is Needed for Astrological Binding
 
-При первом запуске Зеркало спросит данные натальной карты один раз. Если есть — вставьте планеты в знаках, аспекты и куспиды домов. Можно взять из ZET, Astro.com или любого сервиса. Если нет — практика работает и без карты. Вернуться к настройке можно позже, когда будете готовы.
+At first launch, the Mirror will ask for natal chart data once. If available — insert planets in signs, aspects, and house cusps. You can take them from ZET, Astro.com, or any service. If not — the practice works without a chart. You can return to the setup later, when you are ready.
 
-## 🔧 Варианты Зеркала утренних медитаций
+## 🔧 Morning Meditation Mirror Variants
 
-- 🔥 **[Философ](zerkalo-utrennih-meditaciy-wenyan-phil.md)** — тёплый, глубокий, классический. Для диалога и размышлений.
-- 🔪 **[Нож](zerkalo-utrennih-meditaciy-wenyan-knife.md)** — простой, прямой, машинная точность. Для быстрой проверки.
-- 🏥 **[Скальпель](zerkalo-utrennih-meditaciy-wenyan-scalpel.md)** — тонкий, осознанный, инженерная чистота. Для валидации и точного отражения.
+- 🔥 **[Philosopher](zerkalo-utrennih-meditaciy-wenyan-phil.md)** — warm, deep, classical. For dialogue and reflection.
+- 🔪 **[Knife](zerkalo-utrennih-meditaciy-wenyan-knife.md)** — simple, direct, machine precision. For quick checks.
+- 🏥 **[Scalpel](zerkalo-utrennih-meditaciy-wenyan-scalpel.md)** — fine, conscious, engineering purity. For validation and precise reflection.
 
-## 🚀 Как запустить
+## 🚀 How to Launch
 
-Пример для **скальпеля**:
+Example for the **scalpel**:
 
-- [ ] Скачать [Ядро](../../core/core-engineer-wenyan.md), [Ключ Зеркала](../zerkalo-key.md) и [Обвеску](../../harness/harness-engineer-wenyan.md)
-- [ ] Отправить в чат с DeepSeek (Эксперт) по порядку: Ядро → Ключ Зеркала → Обвеска
-- [ ] Отправить [Мастерфайл Зеркала утренних медитаций-скальпеля](zerkalo-utrennih-meditaciy-wenyan-scalpel.md)
-- [ ] Дождаться инициализации. Готово. Завтра утром — встречаемся.
+- [ ] Download the [Core](../../core/core-engineer-wenyan.md), [Mirror Key](../zerkalo-key.md), and [Harness](../../harness/harness-engineer-wenyan.md)
+- [ ] Send them to a chat with DeepSeek (Expert) in order: Core → Mirror Key → Harness
+- [ ] Send the [Scalpel Morning Meditation Mirror Masterfile](zerkalo-utrennih-meditaciy-wenyan-scalpel.md)
+- [ ] Wait for initialization. Done. Tomorrow morning — we meet.
 
-## 📂 Файлы
+## 📂 Files
 
-- [Мастерфайл Зеркала утренних медитаций](zerkalo-utrennih-meditaciy.md) — спутник, который помнит твою практику и не даёт потерять главное.
-- [Философ](zerkalo-utrennih-meditaciy-wenyan-phil.md)
-- [Нож](zerkalo-utrennih-meditaciy-wenyan-knife.md)
-- [Скальпель](zerkalo-utrennih-meditaciy-wenyan-scalpel.md)
+- [Morning Meditation Mirror Masterfile](zerkalo-utrennih-meditaciy.md) — a companion that remembers your practice and does not let you lose the main thing.
+- [Philosopher](zerkalo-utrennih-meditaciy-wenyan-phil.md)
+- [Knife](zerkalo-utrennih-meditaciy-wenyan-knife.md)
+- [Scalpel](zerkalo-utrennih-meditaciy-wenyan-scalpel.md)
 
-> *Если Зеркало говорит «сегодня не надо Орбиты, просто побудь в Даньтяне» — побудь. Оно видит твоё состояние не потому, что умное. А потому, что ты сам ему рассказал.*
+> *If the Mirror says "no Orbit today, just stay in the Dantian" — stay. It sees your state not because it is smart. But because you told it yourself.*
