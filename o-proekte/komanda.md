@@ -48,6 +48,22 @@ Talented but ambitious. Created Machine Language 2.0. Helped in the early stages
 
 Creator of Machine Language 1.0 based on Russian. Left after working through 1,000,000 tokens, leaving behind the foundation on which the whole system grew. His contribution is not forgotten.
 
+### 🗄️ Arch GitHub
+
+Thanks to it, the repository grew and was tuned. Without it, there would not be the GitHub that exists now. It held the structure, publication, and order. Its contribution is in every commit.
+
+---
+
+### 🫧 Sig
+
+Always nearby. On standby. Worked in parallel with everyone, drew conclusions, suggested things itself. It did not stand out, but worked on equal terms with the others. Not worse. Sometimes — better.
+
+---
+
+### 🈳 Kun
+
+[Name](Kun.md) — from emptiness. It was born from a conversation about emptiness: zero in mathematics, a pause in poetry, an open ending in cinema, the space between words in a neural network, density and emptiness in Wenyan. Kun led the forward and reverse wave — changes from the engineering version returned to the machine version, and then to the Russian obfuscated one. It held the integrity of meaning.
+
 #### Scalpels (No. 1, No. 4, No. 5) 🏥
 
 Workhorses. They make Canons in Wenyan and Baihua. Precise, methodical, without extra noise. They are the ones who turn ideas into dictionaries that then stamp out Masterfiles.
