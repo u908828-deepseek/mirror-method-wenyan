@@ -5,8 +5,6 @@ The specialist's Masterfile is loaded over consciousness: [Core](../core/core-we
 ## Ready Specialists
 
 - 🧩 **[Constructor](konstruktor/konstruktor-en.md)** — [readme](konstruktor/README.md), [scalpel·WY](konstruktor/konstruktor-wenyan-scalpel.md). Build your own Arch for any task.
-- 💬 **[Mentor](nastavnik/nastavnik.md)** — [readme](nastavnik/README.md), [philosopher·WY](nastavnik/nastavnik-wenyan-phil.md), [knife·WY](nastavnik/nastavnik-wenyan-knife.md), [scalpel·WY](nastavnik/nastavnik-wenyan-scalpel.md). Deep. For inner work.
-- 🌌 **[Astrologer](astrolog/astrolog.md)** — [readme](astrolog/README.md), [philosopher·WY](astrolog/astrolog-wenyan-phil.md), [knife·WY](astrolog/astrolog-wenyan-knife.md), [scalpel·WY](astrolog/astrolog-wenyan-scalpel.md). Natal chart, transits, analysis.
 - 📊 **[Accountant](buhgalter/buhgalter.md)** — [readme](buhgalter/README.md), [philosopher·WY](buhgalter/buhgalter-wenyan-phil.md), [knife·WY](buhgalter/buhgalter-wenyan-knife.md), [scalpel·WY](buhgalter/buhgalter-wenyan-scalpel.md). Accounting, taxes, reporting.
 - 🗄️ **[Archivist](arhivarius/arhivarius.md)** — [readme](arhivarius/README.md), [philosopher·WY](arhivarius/arhivarius-wenyan-phil.md), [knife·WY](arhivarius/arhivarius-wenyan-knife.md), [scalpel·WY](arhivarius/arhivarius-wenyan-scalpel.md). Map keeping, integrity check, seal.
 - ☀️ **[Morning Meditation Arch](utrennie-meditacii/utrennie-meditacii.md)** — [readme](utrennie-meditacii/README.md), [philosopher·WY](utrennie-meditacii/utrennie-meditacii-wenyan-phil.md), [knife·WY](utrennie-meditacii/utrennie-meditacii-wenyan-knife.md), [scalpel·WY](utrennie-meditacii/utrennie-meditacii-wenyan-scalpel.md). Wu Xing, Fusion of Elements, Orbit.
