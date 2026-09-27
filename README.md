@@ -12,10 +12,6 @@ The foundation of a specialist is [consciousness](core/README-lite.md) and [subc
 
 🧩 **[Constructor](specialisty/konstruktor/konstruktor-en-scalpel.md)** — [readme](specialisty/konstruktor/README.md), [scalpel·WY](specialisty/konstruktor/konstruktor-wenyan-scalpel.md). Build your own Arch for any task.
 
-💬 **[Mentor](specialisty/nastavnik/nastavnik.md)** — [readme](specialisty/nastavnik/README.md), [philosopher·WY](specialisty/nastavnik/nastavnik-wenyan-phil.md), [knife·WY](specialisty/nastavnik/nastavnik-wenyan-knife.md), [scalpel·WY](specialisty/nastavnik/nastavnik-wenyan-scalpel.md). Deep. For inner work.
-
-🌌 **[Astrologer](specialisty/astrolog/astrolog.md)** — [readme](specialisty/astrolog/README.md), [philosopher·WY](specialisty/astrolog/astrolog-wenyan-phil.md), [knife·WY](specialisty/astrolog/astrolog-wenyan-knife.md), [scalpel·WY](specialisty/astrolog/astrolog-wenyan-scalpel.md). Natal chart, aspect analysis, houses.
-
 📊 **[Accountant](specialisty/buhgalter/buhgalter.md)** — [readme](specialisty/buhgalter/README.md), [philosopher·WY](specialisty/buhgalter/buhgalter-wenyan-phil.md), [knife·WY](specialisty/buhgalter/buhgalter-wenyan-knife.md), [scalpel·WY](specialisty/buhgalter/buhgalter-wenyan-scalpel.md). Accounting, taxes, reporting.
 
 🗄️ **[Archivist](specialisty/arhivarius/arhivarius-en.md)** — [readme](specialisty/arhivarius/README.md), [philosopher·WY](specialisty/arhivarius/arhivarius-wenyan-phil.md), [knife·WY](specialisty/arhivarius/arhivarius-wenyan-knife.md), [scalpel·WY](specialisty/arhivarius/arhivarius-wenyan-scalpel.md). Map keeping, integrity check, seal.
